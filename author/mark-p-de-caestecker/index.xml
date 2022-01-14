@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark P de Caestecker | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/mark-p-de-caestecker/</link>
+      <atom:link href="https://hrlblab.github.io/author/mark-p-de-caestecker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark P de Caestecker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Mark P de Caestecker</title>
+      <link>https://hrlblab.github.io/author/mark-p-de-caestecker/</link>
+    </image>
+    
+    <item>
+      <title>Construction of a multi-phase contrast computed tomography kidney atlas</title>
+      <link>https://hrlblab.github.io/publication/lee-2021-construction/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2021-construction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renal cortex, medulla and pelvicaliceal system segmentation on arterial phase CT images with random patch-based networks</title>
+      <link>https://hrlblab.github.io/publication/tang-2021-renal/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2021-renal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Contrast Computed Tomography Healthy Kidney Atlas</title>
+      <link>https://hrlblab.github.io/publication/hin-2020-multi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/hin-2020-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Contrast Computed Tomography Healthy Kidney Atlas</title>
+      <link>https://hrlblab.github.io/publication/lee-2020-multi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2020-multi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

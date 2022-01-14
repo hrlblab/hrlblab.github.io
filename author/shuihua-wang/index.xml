@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuihua Wang | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/shuihua-wang/</link>
+      <atom:link href="https://hrlblab.github.io/author/shuihua-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuihua Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Shuihua Wang</title>
+      <link>https://hrlblab.github.io/author/shuihua-wang/</link>
+    </image>
+    
+    <item>
+      <title>Artificial immune system for protein folding model</title>
+      <link>https://hrlblab.github.io/publication/zhang-2011-artificial/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhang-2011-artificial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaotic artificial bee colony used for cluster analysis</title>
+      <link>https://hrlblab.github.io/publication/zhang-2011-chaotic/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhang-2011-chaotic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-channel Diffusion Tensor Image Registration via adaptive chaotic PSO.</title>
+      <link>https://hrlblab.github.io/publication/zhang-2011-multi/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhang-2011-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature extraction of brain MRI by stationary wavelet transform and its applications</title>
+      <link>https://hrlblab.github.io/publication/zhang-2010-feature/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhang-2010-feature/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

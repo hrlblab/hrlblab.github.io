@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard G Abramson | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/richard-g-abramson/</link>
+      <atom:link href="https://hrlblab.github.io/author/richard-g-abramson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Richard G Abramson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Richard G Abramson</title>
+      <link>https://hrlblab.github.io/author/richard-g-abramson/</link>
+    </image>
+    
+    <item>
+      <title>Corrigendum to\&#34; Acceleration of spleen segmentation with end-to-end deep learning method and automated pipeline\&#34;[Comput. Biol. Med. 107 (2019) 109-117].</title>
+      <link>https://hrlblab.github.io/publication/moon-2021-corrigendum/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/moon-2021-corrigendum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-resolution 3D abdominal segmentation with random patch network fusion</title>
+      <link>https://hrlblab.github.io/publication/tang-2021-high/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2021-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rap-Net: Coarse-To-Fine Multi-Organ Segmentation With Single Random Anatomical Prior</title>
+      <link>https://hrlblab.github.io/publication/lee-2021-rap/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2021-rap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation and estimation of spleen volume via computer-assisted segmentation on clinically acquired CT scans</title>
+      <link>https://hrlblab.github.io/publication/yang-2021-validation/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/yang-2021-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from dispersed manual annotations with an optimized data weighting policy</title>
+      <link>https://hrlblab.github.io/publication/tang-2020-learning/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2020-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outlier guided optimization of abdominal segmentation</title>
+      <link>https://hrlblab.github.io/publication/xu-2020-outlier/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/xu-2020-outlier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised multi-organ segmentation through quality assurance supervision</title>
+      <link>https://hrlblab.github.io/publication/lee-2020-semi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2020-semi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation and Optimization of Multi-Organ Segmentation on Clinical Imaging Archives</title>
+      <link>https://hrlblab.github.io/publication/xu-2020-validation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/xu-2020-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation and optimization of multi-organ segmentation on clinical imaging archives</title>
+      <link>https://hrlblab.github.io/publication/tang-2020-validation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2020-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic tissue window normalization of deep learning on computed tomography</title>
+      <link>https://hrlblab.github.io/publication/huo-2019-stochastic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-2019-stochastic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial synthesis learning enables segmentation without target modality ground truth</title>
+      <link>https://hrlblab.github.io/publication/huo-2018-adversarial/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-2018-adversarial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully convolutional neural networks improve abdominal organ segmentation</title>
+      <link>https://hrlblab.github.io/publication/bobo-2018-fully/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/bobo-2018-fully/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Splenomegaly segmentation using global convolutional kernels and conditional generative adversarial networks</title>
+      <link>https://hrlblab.github.io/publication/huo-2018-splenomegaly/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-2018-splenomegaly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synseg-net: Synthetic segmentation without target modality ground truth</title>
+      <link>https://hrlblab.github.io/publication/huo-2018-synseg/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-2018-synseg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

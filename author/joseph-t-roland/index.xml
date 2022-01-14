@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joseph T Roland | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/joseph-t-roland/</link>
+      <atom:link href="https://hrlblab.github.io/author/joseph-t-roland/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joseph T Roland</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Joseph T Roland</title>
+      <link>https://hrlblab.github.io/author/joseph-t-roland/</link>
+    </image>
+    
+    <item>
+      <title>Circle Representation for Medical Object Detection</title>
+      <link>https://hrlblab.github.io/publication/nguyen-2021-circle/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/nguyen-2021-circle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SimTriplet: Simple Triplet Representation Learning with a Single GPU</title>
+      <link>https://hrlblab.github.io/publication/liu-2021-simtriplet/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/liu-2021-simtriplet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CircleNet: Anchor-free detection with circle representation</title>
+      <link>https://hrlblab.github.io/publication/yang-2020-circlenet/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/yang-2020-circlenet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

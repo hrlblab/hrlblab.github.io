@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anita Mahadevan-Jansen | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/anita-mahadevan-jansen/</link>
+      <atom:link href="https://hrlblab.github.io/author/anita-mahadevan-jansen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anita Mahadevan-Jansen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Anita Mahadevan-Jansen</title>
+      <link>https://hrlblab.github.io/author/anita-mahadevan-jansen/</link>
+    </image>
+    
+    <item>
+      <title>ASIST: ANNOTATION-FREE synthetic instance segmentation and tracking by adversarial simulations</title>
+      <link>https://hrlblab.github.io/publication/liu-2021-asist/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/liu-2021-asist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster Mean-shift: GPU-accelerated clustering for cosine embedding-based cell segmentation and tracking</title>
+      <link>https://hrlblab.github.io/publication/zhao-2021-faster/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhao-2021-faster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Annotation-free Instance Segmentation and Tracking with Adversarial Simulations</title>
+      <link>https://hrlblab.github.io/publication/liu-2021-towards/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/liu-2021-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VoxelEmbed: 3D Instance Segmentation and Tracking with Voxel Embedding based Deep Learning</title>
+      <link>https://hrlblab.github.io/publication/zhao-2021-voxelembed/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhao-2021-voxelembed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

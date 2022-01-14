@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashwin Raju | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/ashwin-raju/</link>
+      <atom:link href="https://hrlblab.github.io/author/ashwin-raju/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ashwin Raju</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Ashwin Raju</title>
+      <link>https://hrlblab.github.io/author/ashwin-raju/</link>
+    </image>
+    
+    <item>
+      <title>Co-heterogeneous and adaptive segmentation from multi-source and multi-phase CT imaging data: A study on pathological liver and lesion segmentation</title>
+      <link>https://hrlblab.github.io/publication/raju-2020-co/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/raju-2020-co/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harvesting, detecting, and characterizing liver lesions from large-scale multi-phase CT data via deep dynamic texture learning</title>
+      <link>https://hrlblab.github.io/publication/huo-2020-harvesting/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-2020-harvesting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jssr: A joint synthesis, segmentation, and registration system for 3d multi-modal image alignment of large-scale pathological ct scans</title>
+      <link>https://hrlblab.github.io/publication/liu-2020-jssr/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/liu-2020-jssr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

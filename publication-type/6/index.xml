@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | HRLB Lab</title>
+    <link>https://hrlblab.github.io/publication-type/6/</link>
+      <atom:link href="https://hrlblab.github.io/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>6</title>
+      <link>https://hrlblab.github.io/publication-type/6/</link>
+    </image>
+    
+    <item>
+      <title>CaCL: Class-Aware Codebook Learning for Weakly Supervised Segmentation on Diffuse Image Patterns</title>
+      <link>https://hrlblab.github.io/publication/deng-2021-cacl/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/deng-2021-cacl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compound Figure Separation of Biomedical Images with Side Loss</title>
+      <link>https://hrlblab.github.io/publication/yao-2021-compound/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/yao-2021-compound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EasierPath: an open-source tool for human-in-the-loop deep learning of renal pathology</title>
+      <link>https://hrlblab.github.io/publication/zhu-2020-easierpath/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhu-2020-easierpath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of Type II Diabetes Onset with Computed Tomography and Electronic Medical Records</title>
+      <link>https://hrlblab.github.io/publication/tang-2020-prediction/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2020-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised Machine Learning with MixMatch and Equivalence Classes</title>
+      <link>https://hrlblab.github.io/publication/hansen-2020-semi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/hansen-2020-semi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

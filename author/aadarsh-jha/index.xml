@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aadarsh Jha | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/aadarsh-jha/</link>
+      <atom:link href="https://hrlblab.github.io/author/aadarsh-jha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aadarsh Jha</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Aadarsh Jha</title>
+      <link>https://hrlblab.github.io/author/aadarsh-jha/</link>
+    </image>
+    
+    <item>
+      <title>ASIST: ANNOTATION-FREE synthetic instance segmentation and tracking by adversarial simulations</title>
+      <link>https://hrlblab.github.io/publication/liu-2021-asist/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/liu-2021-asist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BEDS: Bagging ensemble deep segmentation for nucleus segmentation with testing stage stain augmentation</title>
+      <link>https://hrlblab.github.io/publication/li-2021-beds/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/li-2021-beds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CaCL: Class-Aware Codebook Learning for Weakly Supervised Segmentation on Diffuse Image Patterns</title>
+      <link>https://hrlblab.github.io/publication/deng-2021-cacl/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/deng-2021-cacl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compound Figure Separation of Biomedical Images with Side Loss</title>
+      <link>https://hrlblab.github.io/publication/yao-2021-compound/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/yao-2021-compound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive Learning Meets Transfer Learning: A Case Study In Medical Image Analysis</title>
+      <link>https://hrlblab.github.io/publication/lu-2021-contrastive/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lu-2021-contrastive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster Mean-shift: GPU-accelerated clustering for cosine embedding-based cell segmentation and tracking</title>
+      <link>https://hrlblab.github.io/publication/zhao-2021-faster/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhao-2021-faster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instance segmentation for whole slide imaging: end-to-end or detect-then-segment</title>
+      <link>https://hrlblab.github.io/publication/jha-2021-instance/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/jha-2021-instance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Map3D: registration based multi-object tracking on 3D serial whole slide images</title>
+      <link>https://hrlblab.github.io/publication/deng-2021-map-3-d/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/deng-2021-map-3-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SimTriplet: Simple Triplet Representation Learning with a Single GPU</title>
+      <link>https://hrlblab.github.io/publication/liu-2021-simtriplet/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/liu-2021-simtriplet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Annotation-free Instance Segmentation and Tracking with Adversarial Simulations</title>
+      <link>https://hrlblab.github.io/publication/liu-2021-towards/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/liu-2021-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VoxelEmbed: 3D Instance Segmentation and Tracking with Voxel Embedding based Deep Learning</title>
+      <link>https://hrlblab.github.io/publication/zhao-2021-voxelembed/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhao-2021-voxelembed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

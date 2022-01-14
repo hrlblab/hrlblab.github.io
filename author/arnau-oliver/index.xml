@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arnau Oliver | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/arnau-oliver/</link>
+      <atom:link href="https://hrlblab.github.io/author/arnau-oliver/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arnau Oliver</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Arnau Oliver</title>
+      <link>https://hrlblab.github.io/author/arnau-oliver/</link>
+    </image>
+    
+    <item>
+      <title>A fully automated pipeline for brain structure segmentation in multiple sclerosis</title>
+      <link>https://hrlblab.github.io/publication/gonzalez-2020-fully/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gonzalez-2020-fully/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

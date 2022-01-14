@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prasanna Parvathaneni | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/prasanna-parvathaneni/</link>
+      <atom:link href="https://hrlblab.github.io/author/prasanna-parvathaneni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prasanna Parvathaneni</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Prasanna Parvathaneni</title>
+      <link>https://hrlblab.github.io/author/prasanna-parvathaneni/</link>
+    </image>
+    
+    <item>
+      <title>Tractography reproducibility challenge with empirical data (TraCED): the 2017 ISMRM diffusion study group challenge</title>
+      <link>https://hrlblab.github.io/publication/nath-2020-tractography/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/nath-2020-tractography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D whole brain segmentation using spatially localized atlas network tiles</title>
+      <link>https://hrlblab.github.io/publication/huo-20193-d/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-20193-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cortical surface parcellation using spherical convolutional neural networks</title>
+      <link>https://hrlblab.github.io/publication/parvathaneni-2019-cortical/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/parvathaneni-2019-cortical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning reveals untapped information for local white-matter fiber reconstruction in diffusion-weighted MRI</title>
+      <link>https://hrlblab.github.io/publication/nath-2019-deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/nath-2019-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling multi-shell b-value generalizability of data-driven diffusion models with deep SHORE</title>
+      <link>https://hrlblab.github.io/publication/nath-2019-enabling/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/nath-2019-enabling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved gray matter surface based spatial statistics in neuroimaging studies</title>
+      <link>https://hrlblab.github.io/publication/parvathaneni-2019-improved/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/parvathaneni-2019-improved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving human cortical sulcal curve labeling in large scale cross-sectional MRI using deep neural networks</title>
+      <link>https://hrlblab.github.io/publication/parvathaneni-2019-improving/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/parvathaneni-2019-improving/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

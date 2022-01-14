@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annkristin Lange | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/annkristin-lange/</link>
+      <atom:link href="https://hrlblab.github.io/author/annkristin-lange/index.xml" rel="self" type="application/rss+xml" />
+    <description>Annkristin Lange</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Annkristin Lange</title>
+      <link>https://hrlblab.github.io/author/annkristin-lange/</link>
+    </image>
+    
+    <item>
+      <title>Learn2Reg: comprehensive multi-task medical image registration challenge, dataset and evaluation in the era of deep learning</title>
+      <link>https://hrlblab.github.io/publication/hering-2021-learn-2-reg/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/hering-2021-learn-2-reg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

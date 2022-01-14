@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RAJU Ashwin | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/raju-ashwin/</link>
+      <atom:link href="https://hrlblab.github.io/author/raju-ashwin/index.xml" rel="self" type="application/rss+xml" />
+    <description>RAJU Ashwin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>RAJU Ashwin</title>
+      <link>https://hrlblab.github.io/author/raju-ashwin/</link>
+    </image>
+    
+    <item>
+      <title>Systems and methods for tumor characterization</title>
+      <link>https://hrlblab.github.io/publication/harrison-2021-systems/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/harrison-2021-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-heterogeneous and adaptive 3d pathological abdominal organ segmentation using multi-source and multi-phase clinical image datasets</title>
+      <link>https://hrlblab.github.io/publication/harrison-2021-co/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/harrison-2021-co/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

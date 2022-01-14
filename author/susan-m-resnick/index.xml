@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Susan M Resnick | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/susan-m-resnick/</link>
+      <atom:link href="https://hrlblab.github.io/author/susan-m-resnick/index.xml" rel="self" type="application/rss+xml" />
+    <description>Susan M Resnick</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Susan M Resnick</title>
+      <link>https://hrlblab.github.io/author/susan-m-resnick/</link>
+    </image>
+    
+    <item>
+      <title>Default mode network connectivity and cognition in the aging brain: the effects of age, sex, and APOE genotype.</title>
+      <link>https://hrlblab.github.io/publication/shafer-2021-default/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/shafer-2021-default/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D whole brain segmentation using spatially localized atlas network tiles</title>
+      <link>https://hrlblab.github.io/publication/huo-20193-d/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-20193-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anatomical context improves deep learning on the brain age estimation task</title>
+      <link>https://hrlblab.github.io/publication/bermudez-2019-anatomical/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/bermudez-2019-anatomical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving human cortical sulcal curve labeling in large scale cross-sectional MRI using deep neural networks</title>
+      <link>https://hrlblab.github.io/publication/parvathaneni-2019-improving/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/parvathaneni-2019-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesized b0 for diffusion distortion correction (Synb0-DisCo)</title>
+      <link>https://hrlblab.github.io/publication/schilling-2019-synthesized/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/schilling-2019-synthesized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent cortical reconstruction and multi-atlas brain segmentation</title>
+      <link>https://hrlblab.github.io/publication/huo-2016-consistent/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-2016-consistent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

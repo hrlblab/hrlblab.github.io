@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyeonsoo Moon | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/hyeonsoo-moon/</link>
+      <atom:link href="https://hrlblab.github.io/author/hyeonsoo-moon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hyeonsoo Moon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Hyeonsoo Moon</title>
+      <link>https://hrlblab.github.io/author/hyeonsoo-moon/</link>
+    </image>
+    
+    <item>
+      <title>Corrigendum to\&#34; Acceleration of spleen segmentation with end-to-end deep learning method and automated pipeline\&#34;[Comput. Biol. Med. 107 (2019) 109-117].</title>
+      <link>https://hrlblab.github.io/publication/moon-2021-corrigendum/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/moon-2021-corrigendum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synseg-net: Synthetic segmentation without target modality ground truth</title>
+      <link>https://hrlblab.github.io/publication/huo-2018-synseg/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-2018-synseg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

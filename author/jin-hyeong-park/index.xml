@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jin-hyeong Park | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/jin-hyeong-park/</link>
+      <atom:link href="https://hrlblab.github.io/author/jin-hyeong-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jin-hyeong Park</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Jin-hyeong Park</title>
+      <link>https://hrlblab.github.io/author/jin-hyeong-park/</link>
+    </image>
+    
+    <item>
+      <title>Segmentation, landmark detection and view classification using multi-task learning</title>
+      <link>https://hrlblab.github.io/publication/zhoubing-2021-segmentation/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhoubing-2021-segmentation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

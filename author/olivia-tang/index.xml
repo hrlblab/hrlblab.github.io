@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olivia Tang | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/olivia-tang/</link>
+      <atom:link href="https://hrlblab.github.io/author/olivia-tang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Olivia Tang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Olivia Tang</title>
+      <link>https://hrlblab.github.io/author/olivia-tang/</link>
+    </image>
+    
+    <item>
+      <title>Contrast phase classification with a generative adversarial network</title>
+      <link>https://hrlblab.github.io/publication/tang-2020-contrast/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2020-contrast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outlier guided optimization of abdominal segmentation</title>
+      <link>https://hrlblab.github.io/publication/xu-2020-outlier/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/xu-2020-outlier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised multi-organ segmentation through quality assurance supervision</title>
+      <link>https://hrlblab.github.io/publication/lee-2020-semi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2020-semi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation and Optimization of Multi-Organ Segmentation on Clinical Imaging Archives</title>
+      <link>https://hrlblab.github.io/publication/xu-2020-validation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/xu-2020-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation and optimization of multi-organ segmentation on clinical imaging archives</title>
+      <link>https://hrlblab.github.io/publication/tang-2020-validation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2020-validation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

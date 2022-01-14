@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carissa J Cascio | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/carissa-j-cascio/</link>
+      <atom:link href="https://hrlblab.github.io/author/carissa-j-cascio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carissa J Cascio</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Carissa J Cascio</title>
+      <link>https://hrlblab.github.io/author/carissa-j-cascio/</link>
+    </image>
+    
+    <item>
+      <title>Cortical surface parcellation using spherical convolutional neural networks</title>
+      <link>https://hrlblab.github.io/publication/parvathaneni-2019-cortical/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/parvathaneni-2019-cortical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuxuan Shi | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/yuxuan-shi/</link>
+      <atom:link href="https://hrlblab.github.io/author/yuxuan-shi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuxuan Shi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Yuxuan Shi</title>
+      <link>https://hrlblab.github.io/author/yuxuan-shi/</link>
+    </image>
+    
+    <item>
+      <title>Semi-Supervised Contrastive Learning for Remote Sensing: Identifying Ancient Urbanization in the South Central Andes</title>
+      <link>https://hrlblab.github.io/publication/xu-2021-semi/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/xu-2021-semi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

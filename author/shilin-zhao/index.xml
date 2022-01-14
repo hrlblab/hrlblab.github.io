@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shilin Zhao | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/shilin-zhao/</link>
+      <atom:link href="https://hrlblab.github.io/author/shilin-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shilin Zhao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Shilin Zhao</title>
+      <link>https://hrlblab.github.io/author/shilin-zhao/</link>
+    </image>
+    
+    <item>
+      <title>BEDS: Bagging ensemble deep segmentation for nucleus segmentation with testing stage stain augmentation</title>
+      <link>https://hrlblab.github.io/publication/li-2021-beds/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/li-2021-beds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Fully Automated Prediction of Overall Survival in Patients with Oropharyngeal Cancer Using FDG-PET Imaging</title>
+      <link>https://hrlblab.github.io/publication/cheng-2021-deep/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/cheng-2021-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SimTriplet: Simple Triplet Representation Learning with a Single GPU</title>
+      <link>https://hrlblab.github.io/publication/liu-2021-simtriplet/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/liu-2021-simtriplet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

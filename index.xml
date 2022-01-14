@@ -7,10 +7,18 @@
     <description>HRLB Lab</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hrlblab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
       <title>HRLB Lab</title>
       <link>https://hrlblab.github.io/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://hrlblab.github.io/research/slider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/research/slider/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Example Event</title>
@@ -28,6 +36,14 @@
     </item>
     
     <item>
+      <title>Generalizing deep learning brain segmentation for skull removal and intracranial measurements</title>
+      <link>https://hrlblab.github.io/publication/liu-2022-generalizing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/liu-2022-generalizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
       <link>https://hrlblab.github.io/post/20-12-01-wowchemy-prize/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
@@ -36,6 +52,430 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
 &lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
 &lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Device and method for alignment of multi-modal clinical images using joint synthesis, segmentation, and registration</title>
+      <link>https://hrlblab.github.io/publication/jinzheng-2021-device/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/jinzheng-2021-device/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems and methods for tumor characterization</title>
+      <link>https://hrlblab.github.io/publication/harrison-2021-systems/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/harrison-2021-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-heterogeneous and adaptive 3d pathological abdominal organ segmentation using multi-source and multi-phase clinical image datasets</title>
+      <link>https://hrlblab.github.io/publication/harrison-2021-co/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/harrison-2021-co/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and system for harvesting lesion annotations</title>
+      <link>https://hrlblab.github.io/publication/jinzheng-2021-method/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/jinzheng-2021-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation, landmark detection and view classification using multi-task learning</title>
+      <link>https://hrlblab.github.io/publication/zhoubing-2021-segmentation/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhoubing-2021-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>339 THE ASSOCIATION BETWEEN HEPATIC STEATOSIS AND INCIDENT CARDIOVASCULAR DISEASE AND ALL-CAUSE MORTALITY IN A US MULTI-COHORT STUDY</title>
+      <link>https://hrlblab.github.io/publication/ahmed-2021339/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/ahmed-2021339/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A cross-platform informatics system for the Gut Cell Atlas: integrating clinical, anatomical and histological data</title>
+      <link>https://hrlblab.github.io/publication/bao-2021-cross/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/bao-2021-cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI applications in renal pathology</title>
+      <link>https://hrlblab.github.io/publication/huo-2021-ai/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-2021-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Altered gray matter development in pre-reading children with a family history of reading disorder</title>
+      <link>https://hrlblab.github.io/publication/ostertag-2021-altered/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/ostertag-2021-altered/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASIST: ANNOTATION-FREE synthetic instance segmentation and tracking by adversarial simulations</title>
+      <link>https://hrlblab.github.io/publication/liu-2021-asist/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/liu-2021-asist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention-Guided Supervised Contrastive Learning for Semantic Segmentation</title>
+      <link>https://hrlblab.github.io/publication/lee-2021-attention/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2021-attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BEDS: Bagging ensemble deep segmentation for nucleus segmentation with testing stage stain augmentation</title>
+      <link>https://hrlblab.github.io/publication/li-2021-beds/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/li-2021-beds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Body Part Regression With Self-Supervision</title>
+      <link>https://hrlblab.github.io/publication/tang-2021-body/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2021-body/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CaCL: Class-Aware Codebook Learning for Weakly Supervised Segmentation on Diffuse Image Patterns</title>
+      <link>https://hrlblab.github.io/publication/deng-2021-cacl/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/deng-2021-cacl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cancer Risk Estimation Combining Lung Screening CT with Clinical Data Elements</title>
+      <link>https://hrlblab.github.io/publication/gao-2021-cancer/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gao-2021-cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circle Representation for Medical Object Detection</title>
+      <link>https://hrlblab.github.io/publication/nguyen-2021-circle/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/nguyen-2021-circle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compound Figure Separation of Biomedical Images with Side Loss</title>
+      <link>https://hrlblab.github.io/publication/yao-2021-compound/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/yao-2021-compound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of a multi-phase contrast computed tomography kidney atlas</title>
+      <link>https://hrlblab.github.io/publication/lee-2021-construction/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2021-construction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive Learning Meets Transfer Learning: A Case Study In Medical Image Analysis</title>
+      <link>https://hrlblab.github.io/publication/lu-2021-contrastive/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lu-2021-contrastive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corrigendum to\&#34; Acceleration of spleen segmentation with end-to-end deep learning method and automated pipeline\&#34;[Comput. Biol. Med. 107 (2019) 109-117].</title>
+      <link>https://hrlblab.github.io/publication/moon-2021-corrigendum/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/moon-2021-corrigendum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Fully Automated Prediction of Overall Survival in Patients with Oropharyngeal Cancer Using FDG-PET Imaging</title>
+      <link>https://hrlblab.github.io/publication/cheng-2021-deep/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/cheng-2021-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep multi-path network integrating incomplete biomarker and chest CT data for evaluating lung cancer risk</title>
+      <link>https://hrlblab.github.io/publication/gao-2021-deep/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gao-2021-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Default mode network connectivity and cognition in the aging brain: the effects of age, sex, and APOE genotype.</title>
+      <link>https://hrlblab.github.io/publication/shafer-2021-default/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/shafer-2021-default/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and characterization of a chest CT atlas</title>
+      <link>https://hrlblab.github.io/publication/xu-2021-development/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/xu-2021-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating transformer-based semantic segmentation networks for pathological image segmentation</title>
+      <link>https://hrlblab.github.io/publication/nguyen-2021-evaluating/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/nguyen-2021-evaluating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster Mean-shift: GPU-accelerated clustering for cosine embedding-based cell segmentation and tracking</title>
+      <link>https://hrlblab.github.io/publication/zhao-2021-faster/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhao-2021-faster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Brain to Body: Learning Low-Frequency Respiration and Cardiac Signals from fMRI Dynamics</title>
+      <link>https://hrlblab.github.io/publication/bayrak-2021-brain/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/bayrak-2021-brain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GAN based unsupervised segmentation: should we match the exact number of objects</title>
+      <link>https://hrlblab.github.io/publication/liu-2021-gan/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/liu-2021-gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-resolution 3D abdominal segmentation with random patch network fusion</title>
+      <link>https://hrlblab.github.io/publication/tang-2021-high/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2021-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improve global glomerulosclerosis classification with imbalanced data using CircleMix augmentation</title>
+      <link>https://hrlblab.github.io/publication/lu-2021-improve/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lu-2021-improve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instance segmentation for whole slide imaging: end-to-end or detect-then-segment</title>
+      <link>https://hrlblab.github.io/publication/jha-2021-instance/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/jha-2021-instance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn2Reg: comprehensive multi-task medical image registration challenge, dataset and evaluation in the era of deep learning</title>
+      <link>https://hrlblab.github.io/publication/hering-2021-learn-2-reg/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/hering-2021-learn-2-reg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limitation of acyclic oriented graphs matching as cell tracking accuracy measure when evaluating mitosis</title>
+      <link>https://hrlblab.github.io/publication/chen-2021-limitation/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/chen-2021-limitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liver Tumor Localization and Characterization from Multi-phase MR Volumes Using Key-Slice Prediction: A Physician-Inspired Approach</title>
+      <link>https://hrlblab.github.io/publication/lai-2021-liver/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lai-2021-liver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lung Cancer Risk Estimation with Incomplete Data: A Joint Missing Imputation Perspective</title>
+      <link>https://hrlblab.github.io/publication/gao-2021-lung/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gao-2021-lung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Map3D: registration based multi-object tracking on 3D serial whole slide images</title>
+      <link>https://hrlblab.github.io/publication/deng-2021-map-3-d/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/deng-2021-map-3-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measure partial liver volumetric variations from paired inspiratory-expiratory chest CT scans</title>
+      <link>https://hrlblab.github.io/publication/luo-2021-measure/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/luo-2021-measure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Omni-Seg: A Single Dynamic Network for Multi-label Renal Pathology Image Segmentation using Partially Labeled Data</title>
+      <link>https://hrlblab.github.io/publication/deng-2021-omni/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/deng-2021-omni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pancreas CT Segmentation by Predictive Phenotyping</title>
+      <link>https://hrlblab.github.io/publication/tang-2021-pancreas/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2021-pancreas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase identification for dynamic CT enhancements with generative adversarial network</title>
+      <link>https://hrlblab.github.io/publication/tang-2021-phase/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2021-phase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prenatal and postnatal maternal anxiety and amygdala structure and function in young children</title>
+      <link>https://hrlblab.github.io/publication/donnici-2021-prenatal/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/donnici-2021-prenatal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Multi-Channel Image Synthesis for Multiplexed Immunofluorescence Imaging</title>
+      <link>https://hrlblab.github.io/publication/bao-2021-random/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/bao-2021-random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rap-Net: Coarse-To-Fine Multi-Organ Segmentation With Single Random Anatomical Prior</title>
+      <link>https://hrlblab.github.io/publication/lee-2021-rap/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2021-rap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction of respiratory variation signals from fMRI data</title>
+      <link>https://hrlblab.github.io/publication/salas-2021-reconstruction/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/salas-2021-reconstruction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renal cortex, medulla and pelvicaliceal system segmentation on arterial phase CT images with random patch-based networks</title>
+      <link>https://hrlblab.github.io/publication/tang-2021-renal/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2021-renal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic-Aware Contrastive Learning for Multi-object Medical Image Segmentation</title>
+      <link>https://hrlblab.github.io/publication/lee-2021-semantic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2021-semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Supervised Contrastive Learning for Remote Sensing: Identifying Ancient Urbanization in the South Central Andes</title>
+      <link>https://hrlblab.github.io/publication/xu-2021-semi/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/xu-2021-semi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SimTriplet: Simple Triplet Representation Learning with a Single GPU</title>
+      <link>https://hrlblab.github.io/publication/liu-2021-simtriplet/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/liu-2021-simtriplet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical Report: Quality Assessment Tool for Machine Learning with Clinical CT</title>
+      <link>https://hrlblab.github.io/publication/gao-2021-technical/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gao-2021-technical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Annotation-free Instance Segmentation and Tracking with Adversarial Simulations</title>
+      <link>https://hrlblab.github.io/publication/liu-2021-towards/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/liu-2021-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation and estimation of spleen volume via computer-assisted segmentation on clinically acquired CT scans</title>
+      <link>https://hrlblab.github.io/publication/yang-2021-validation/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/yang-2021-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VoxelEmbed: 3D Instance Segmentation and Tracking with Voxel Embedding based Deep Learning</title>
+      <link>https://hrlblab.github.io/publication/zhao-2021-voxelembed/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhao-2021-voxelembed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wearmask: Fast in-browser face mask detection with serverless edge computing for covid-19</title>
+      <link>https://hrlblab.github.io/publication/wang-2021-wearmask/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/wang-2021-wearmask/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -50,40 +490,491 @@
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://hrlblab.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://hrlblab.github.io/publication/preprint/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>A Deep Pattern Recognition Approach for Inferring Respiratory Volume Fluctuations from fMRI Data</title>
+      <link>https://hrlblab.github.io/publication/bayrak-2020-deep/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/bayrak-2020-deep/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://hrlblab.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://hrlblab.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>A fully automated pipeline for brain structure segmentation in multiple sclerosis</title>
+      <link>https://hrlblab.github.io/publication/gonzalez-2020-fully/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gonzalez-2020-fully/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://hrlblab.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://hrlblab.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>CircleNet: Anchor-free detection with circle representation</title>
+      <link>https://hrlblab.github.io/publication/yang-2020-circlenet/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/yang-2020-circlenet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-heterogeneous and adaptive segmentation from multi-source and multi-phase CT imaging data: A study on pathological liver and lesion segmentation</title>
+      <link>https://hrlblab.github.io/publication/raju-2020-co/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/raju-2020-co/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrast phase classification with a generative adversarial network</title>
+      <link>https://hrlblab.github.io/publication/tang-2020-contrast/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2020-contrast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-scanner and cross-protocol multi-shell diffusion MRI data harmonization: Algorithms and results</title>
+      <link>https://hrlblab.github.io/publication/ning-2020-cross/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/ning-2020-cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep multi-task prediction of lung cancer and cancer-free progression from censored heterogenous clinical imaging</title>
+      <link>https://hrlblab.github.io/publication/gao-2020-deep/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gao-2020-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and Characterization of a Chest CT Atlas</title>
+      <link>https://hrlblab.github.io/publication/xu-2020-development/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/xu-2020-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EasierPath: an open-source tool for human-in-the-loop deep learning of renal pathology</title>
+      <link>https://hrlblab.github.io/publication/zhu-2020-easierpath/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhu-2020-easierpath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully-Automated Liver Tumor Localization and Characterization from Multi-Phase MR Volumes Using Key-Slice ROI Parsing: A Physician-Inspired Approach</title>
+      <link>https://hrlblab.github.io/publication/lai-2020-fully/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lai-2020-fully/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalizing deep whole brain segmentation for pediatric and post-contrast MRI with augmented transfer learning</title>
+      <link>https://hrlblab.github.io/publication/bermudez-2020-generalizing/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/bermudez-2020-generalizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harvesting, detecting, and characterizing liver lesions from large-scale multi-phase CT data via deep dynamic texture learning</title>
+      <link>https://hrlblab.github.io/publication/huo-2020-harvesting/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-2020-harvesting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal-transfer weighting of multi-task learning for lung cancer detection</title>
+      <link>https://hrlblab.github.io/publication/yang-2020-internal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/yang-2020-internal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jssr: A joint synthesis, segmentation, and registration system for 3d multi-modal image alignment of large-scale pathological ct scans</title>
+      <link>https://hrlblab.github.io/publication/liu-2020-jssr/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/liu-2020-jssr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from dispersed manual annotations with an optimized data weighting policy</title>
+      <link>https://hrlblab.github.io/publication/tang-2020-learning/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2020-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lesion-harvester: Iteratively mining unlabeled lesions and hard-negative examples at scale</title>
+      <link>https://hrlblab.github.io/publication/cai-2020-lesion/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/cai-2020-lesion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Contrast Computed Tomography Healthy Kidney Atlas</title>
+      <link>https://hrlblab.github.io/publication/hin-2020-multi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/hin-2020-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Contrast Computed Tomography Healthy Kidney Atlas</title>
+      <link>https://hrlblab.github.io/publication/lee-2020-multi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2020-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-path xD recurrent neural networks for collaborative image classification</title>
+      <link>https://hrlblab.github.io/publication/gao-2020-multi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gao-2020-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiatlas segmentation</title>
+      <link>https://hrlblab.github.io/publication/landman-2020-multiatlas/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/landman-2020-multiatlas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outlier guided optimization of abdominal segmentation</title>
+      <link>https://hrlblab.github.io/publication/xu-2020-outlier/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/xu-2020-outlier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of Type II Diabetes Onset with Computed Tomography and Electronic Medical Records</title>
+      <link>https://hrlblab.github.io/publication/tang-2020-prediction/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2020-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliable liver fibrosis assessment from ultrasound using global hetero-image fusion and view-specific parameterization</title>
+      <link>https://hrlblab.github.io/publication/li-2020-reliable/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/li-2020-reliable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised Machine Learning with MixMatch and Equivalence Classes</title>
+      <link>https://hrlblab.github.io/publication/hansen-2020-semi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/hansen-2020-semi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised multi-organ segmentation through quality assurance supervision</title>
+      <link>https://hrlblab.github.io/publication/lee-2020-semi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2020-semi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Value of Nullspace Tuning Using Partial Label Information</title>
+      <link>https://hrlblab.github.io/publication/hansen-2020-value/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/hansen-2020-value/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-distanced gates in long short-term memory networks</title>
+      <link>https://hrlblab.github.io/publication/gao-2020-time/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gao-2020-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tractography reproducibility challenge with empirical data (TraCED): the 2017 ISMRM diffusion study group challenge</title>
+      <link>https://hrlblab.github.io/publication/nath-2020-tractography/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/nath-2020-tractography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation and Optimization of Multi-Organ Segmentation on Clinical Imaging Archives</title>
+      <link>https://hrlblab.github.io/publication/xu-2020-validation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/xu-2020-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation and optimization of multi-organ segmentation on clinical imaging archives</title>
+      <link>https://hrlblab.github.io/publication/tang-2020-validation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2020-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D whole brain segmentation using spatially localized atlas network tiles</title>
+      <link>https://hrlblab.github.io/publication/huo-20193-d/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-20193-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An end to end automated pipeline for brain structure segmentation in multiple sclerosis patients</title>
+      <link>https://hrlblab.github.io/publication/gonzalez-2019-end/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gonzalez-2019-end/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anatomical context improves deep learning on the brain age estimation task</title>
+      <link>https://hrlblab.github.io/publication/bermudez-2019-anatomical/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/bermudez-2019-anatomical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cortical surface parcellation using spherical convolutional neural networks</title>
+      <link>https://hrlblab.github.io/publication/parvathaneni-2019-cortical/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/parvathaneni-2019-cortical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning reveals untapped information for local white-matter fiber reconstruction in diffusion-weighted MRI</title>
+      <link>https://hrlblab.github.io/publication/nath-2019-deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/nath-2019-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a lung nodule cohort with integrated clinical, molecular and imaging biomarkers</title>
+      <link>https://hrlblab.github.io/publication/antic-2019-development/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/antic-2019-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distanced LSTM: time-distanced gates in long short-term memory models for lung cancer detection</title>
+      <link>https://hrlblab.github.io/publication/gao-2019-distanced/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gao-2019-distanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling multi-shell b-value generalizability of data-driven diffusion models with deep SHORE</title>
+      <link>https://hrlblab.github.io/publication/nath-2019-enabling/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/nath-2019-enabling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully automatic liver attenuation estimation combing CNN segmentation and morphological operations</title>
+      <link>https://hrlblab.github.io/publication/huo-2019-fully/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-2019-fully/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved gray matter surface based spatial statistics in neuroimaging studies</title>
+      <link>https://hrlblab.github.io/publication/parvathaneni-2019-improved/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/parvathaneni-2019-improved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving human cortical sulcal curve labeling in large scale cross-sectional MRI using deep neural networks</title>
+      <link>https://hrlblab.github.io/publication/parvathaneni-2019-improving/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/parvathaneni-2019-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-the-fly scheduling versus reservation-based scheduling for unpredictable workflows</title>
+      <link>https://hrlblab.github.io/publication/gainaru-2019-fly/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gainaru-2019-fly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P2. 11-01 Novel Flexible Longitudinal Machine Learning Coupled with Patient Demographics Improves Lung Cancer Risk Prediction Using Whole Screening CTs</title>
+      <link>https://hrlblab.github.io/publication/sandler-2019-p-2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/sandler-2019-p-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic tissue window normalization of deep learning on computed tomography</title>
+      <link>https://hrlblab.github.io/publication/huo-2019-stochastic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-2019-stochastic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesized b0 for diffusion distortion correction (Synb0-DisCo)</title>
+      <link>https://hrlblab.github.io/publication/schilling-2019-synthesized/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/schilling-2019-synthesized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial synthesis learning enables segmentation without target modality ground truth</title>
+      <link>https://hrlblab.github.io/publication/huo-2018-adversarial/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-2018-adversarial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully convolutional neural networks improve abdominal organ segmentation</title>
+      <link>https://hrlblab.github.io/publication/bobo-2018-fully/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/bobo-2018-fully/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Less is more: Simultaneous view classification and landmark detection for abdominal ultrasound images</title>
+      <link>https://hrlblab.github.io/publication/xu-2018-less/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/xu-2018-less/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Splenomegaly segmentation using global convolutional kernels and conditional generative adversarial networks</title>
+      <link>https://hrlblab.github.io/publication/huo-2018-splenomegaly/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-2018-splenomegaly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synseg-net: Synthetic segmentation without target modality ground truth</title>
+      <link>https://hrlblab.github.io/publication/huo-2018-synseg/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-2018-synseg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduced perfusion in Broca&#39;s area in developmental stuttering</title>
+      <link>https://hrlblab.github.io/publication/desai-2017-reduced/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/desai-2017-reduced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous total intracranial volume and posterior fossa volume estimation using multi-atlas label fusion</title>
+      <link>https://hrlblab.github.io/publication/huo-2017-simultaneous/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-2017-simultaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent cortical reconstruction and multi-atlas brain segmentation</title>
+      <link>https://hrlblab.github.io/publication/huo-2016-consistent/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-2016-consistent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-atlas learner fusion: An efficient segmentation approach for large-scale data</title>
+      <link>https://hrlblab.github.io/publication/asman-2015-multi/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/asman-2015-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reward-based spatial learning in unmedicated adults with obsessive-compulsive disorder</title>
+      <link>https://hrlblab.github.io/publication/marsh-2015-reward/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/marsh-2015-reward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A functional imaging study of self-regulatory capacities in persons who stutter</title>
+      <link>https://hrlblab.github.io/publication/liu-2014-functional/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/liu-2014-functional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial immune system for protein folding model</title>
+      <link>https://hrlblab.github.io/publication/zhang-2011-artificial/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhang-2011-artificial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaotic artificial bee colony used for cluster analysis</title>
+      <link>https://hrlblab.github.io/publication/zhang-2011-chaotic/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhang-2011-chaotic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-channel Diffusion Tensor Image Registration via adaptive chaotic PSO.</title>
+      <link>https://hrlblab.github.io/publication/zhang-2011-multi/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhang-2011-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An adaptive threshold for the Canny Operator of edge detection</title>
+      <link>https://hrlblab.github.io/publication/huo-2010-adaptive/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-2010-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature extraction of brain MRI by stationary wavelet transform and its applications</title>
+      <link>https://hrlblab.github.io/publication/zhang-2010-feature/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhang-2010-feature/</guid>
+      <description></description>
     </item>
     
     <item>

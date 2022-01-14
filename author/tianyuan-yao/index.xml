@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tianyuan Yao | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/tianyuan-yao/</link>
+      <atom:link href="https://hrlblab.github.io/author/tianyuan-yao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tianyuan Yao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Tianyuan Yao</title>
+      <link>https://hrlblab.github.io/author/tianyuan-yao/</link>
+    </image>
+    
+    <item>
+      <title>Compound Figure Separation of Biomedical Images with Side Loss</title>
+      <link>https://hrlblab.github.io/publication/yao-2021-compound/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/yao-2021-compound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SimTriplet: Simple Triplet Representation Learning with a Single GPU</title>
+      <link>https://hrlblab.github.io/publication/liu-2021-simtriplet/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/liu-2021-simtriplet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VoxelEmbed: 3D Instance Segmentation and Tracking with Voxel Embedding based Deep Learning</title>
+      <link>https://hrlblab.github.io/publication/zhao-2021-voxelembed/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhao-2021-voxelembed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

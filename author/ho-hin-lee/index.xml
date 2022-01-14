@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ho Hin Lee | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/ho-hin-lee/</link>
+      <atom:link href="https://hrlblab.github.io/author/ho-hin-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ho Hin Lee</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Ho Hin Lee</title>
+      <link>https://hrlblab.github.io/author/ho-hin-lee/</link>
+    </image>
+    
+    <item>
+      <title>A cross-platform informatics system for the Gut Cell Atlas: integrating clinical, anatomical and histological data</title>
+      <link>https://hrlblab.github.io/publication/bao-2021-cross/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/bao-2021-cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention-Guided Supervised Contrastive Learning for Semantic Segmentation</title>
+      <link>https://hrlblab.github.io/publication/lee-2021-attention/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2021-attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of a multi-phase contrast computed tomography kidney atlas</title>
+      <link>https://hrlblab.github.io/publication/lee-2021-construction/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2021-construction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-resolution 3D abdominal segmentation with random patch network fusion</title>
+      <link>https://hrlblab.github.io/publication/tang-2021-high/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2021-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lung Cancer Risk Estimation with Incomplete Data: A Joint Missing Imputation Perspective</title>
+      <link>https://hrlblab.github.io/publication/gao-2021-lung/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gao-2021-lung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase identification for dynamic CT enhancements with generative adversarial network</title>
+      <link>https://hrlblab.github.io/publication/tang-2021-phase/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2021-phase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Multi-Channel Image Synthesis for Multiplexed Immunofluorescence Imaging</title>
+      <link>https://hrlblab.github.io/publication/bao-2021-random/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/bao-2021-random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rap-Net: Coarse-To-Fine Multi-Organ Segmentation With Single Random Anatomical Prior</title>
+      <link>https://hrlblab.github.io/publication/lee-2021-rap/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2021-rap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renal cortex, medulla and pelvicaliceal system segmentation on arterial phase CT images with random patch-based networks</title>
+      <link>https://hrlblab.github.io/publication/tang-2021-renal/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2021-renal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic-Aware Contrastive Learning for Multi-object Medical Image Segmentation</title>
+      <link>https://hrlblab.github.io/publication/lee-2021-semantic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2021-semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrast phase classification with a generative adversarial network</title>
+      <link>https://hrlblab.github.io/publication/tang-2020-contrast/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2020-contrast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Contrast Computed Tomography Healthy Kidney Atlas</title>
+      <link>https://hrlblab.github.io/publication/hin-2020-multi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/hin-2020-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Contrast Computed Tomography Healthy Kidney Atlas</title>
+      <link>https://hrlblab.github.io/publication/lee-2020-multi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2020-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outlier guided optimization of abdominal segmentation</title>
+      <link>https://hrlblab.github.io/publication/xu-2020-outlier/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/xu-2020-outlier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of Type II Diabetes Onset with Computed Tomography and Electronic Medical Records</title>
+      <link>https://hrlblab.github.io/publication/tang-2020-prediction/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2020-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised multi-organ segmentation through quality assurance supervision</title>
+      <link>https://hrlblab.github.io/publication/lee-2020-semi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2020-semi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation and Optimization of Multi-Organ Segmentation on Clinical Imaging Archives</title>
+      <link>https://hrlblab.github.io/publication/xu-2020-validation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/xu-2020-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation and optimization of multi-organ segmentation on clinical imaging archives</title>
+      <link>https://hrlblab.github.io/publication/tang-2020-validation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2020-validation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

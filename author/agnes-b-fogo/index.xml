@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agnes B Fogo | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/agnes-b-fogo/</link>
+      <atom:link href="https://hrlblab.github.io/author/agnes-b-fogo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Agnes B Fogo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Agnes B Fogo</title>
+      <link>https://hrlblab.github.io/author/agnes-b-fogo/</link>
+    </image>
+    
+    <item>
+      <title>AI applications in renal pathology</title>
+      <link>https://hrlblab.github.io/publication/huo-2021-ai/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-2021-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BEDS: Bagging ensemble deep segmentation for nucleus segmentation with testing stage stain augmentation</title>
+      <link>https://hrlblab.github.io/publication/li-2021-beds/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/li-2021-beds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circle Representation for Medical Object Detection</title>
+      <link>https://hrlblab.github.io/publication/nguyen-2021-circle/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/nguyen-2021-circle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compound Figure Separation of Biomedical Images with Side Loss</title>
+      <link>https://hrlblab.github.io/publication/yao-2021-compound/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/yao-2021-compound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of a multi-phase contrast computed tomography kidney atlas</title>
+      <link>https://hrlblab.github.io/publication/lee-2021-construction/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2021-construction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improve global glomerulosclerosis classification with imbalanced data using CircleMix augmentation</title>
+      <link>https://hrlblab.github.io/publication/lu-2021-improve/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lu-2021-improve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instance segmentation for whole slide imaging: end-to-end or detect-then-segment</title>
+      <link>https://hrlblab.github.io/publication/jha-2021-instance/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/jha-2021-instance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Map3D: registration based multi-object tracking on 3D serial whole slide images</title>
+      <link>https://hrlblab.github.io/publication/deng-2021-map-3-d/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/deng-2021-map-3-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renal cortex, medulla and pelvicaliceal system segmentation on arterial phase CT images with random patch-based networks</title>
+      <link>https://hrlblab.github.io/publication/tang-2021-renal/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2021-renal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CircleNet: Anchor-free detection with circle representation</title>
+      <link>https://hrlblab.github.io/publication/yang-2020-circlenet/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/yang-2020-circlenet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EasierPath: an open-source tool for human-in-the-loop deep learning of renal pathology</title>
+      <link>https://hrlblab.github.io/publication/zhu-2020-easierpath/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhu-2020-easierpath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Contrast Computed Tomography Healthy Kidney Atlas</title>
+      <link>https://hrlblab.github.io/publication/hin-2020-multi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/hin-2020-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Contrast Computed Tomography Healthy Kidney Atlas</title>
+      <link>https://hrlblab.github.io/publication/lee-2020-multi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2020-multi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

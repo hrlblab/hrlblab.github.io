@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kim L Sandler | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/kim-l-sandler/</link>
+      <atom:link href="https://hrlblab.github.io/author/kim-l-sandler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kim L Sandler</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Kim L Sandler</title>
+      <link>https://hrlblab.github.io/author/kim-l-sandler/</link>
+    </image>
+    
+    <item>
+      <title>Cancer Risk Estimation Combining Lung Screening CT with Clinical Data Elements</title>
+      <link>https://hrlblab.github.io/publication/gao-2021-cancer/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gao-2021-cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep multi-path network integrating incomplete biomarker and chest CT data for evaluating lung cancer risk</title>
+      <link>https://hrlblab.github.io/publication/gao-2021-deep/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gao-2021-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and characterization of a chest CT atlas</title>
+      <link>https://hrlblab.github.io/publication/xu-2021-development/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/xu-2021-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical Report: Quality Assessment Tool for Machine Learning with Clinical CT</title>
+      <link>https://hrlblab.github.io/publication/gao-2021-technical/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gao-2021-technical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep multi-task prediction of lung cancer and cancer-free progression from censored heterogenous clinical imaging</title>
+      <link>https://hrlblab.github.io/publication/gao-2020-deep/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gao-2020-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and Characterization of a Chest CT Atlas</title>
+      <link>https://hrlblab.github.io/publication/xu-2020-development/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/xu-2020-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal-transfer weighting of multi-task learning for lung cancer detection</title>
+      <link>https://hrlblab.github.io/publication/yang-2020-internal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/yang-2020-internal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-path xD recurrent neural networks for collaborative image classification</title>
+      <link>https://hrlblab.github.io/publication/gao-2020-multi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gao-2020-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised Machine Learning with MixMatch and Equivalence Classes</title>
+      <link>https://hrlblab.github.io/publication/hansen-2020-semi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/hansen-2020-semi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-distanced gates in long short-term memory networks</title>
+      <link>https://hrlblab.github.io/publication/gao-2020-time/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gao-2020-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distanced LSTM: time-distanced gates in long short-term memory models for lung cancer detection</title>
+      <link>https://hrlblab.github.io/publication/gao-2019-distanced/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gao-2019-distanced/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

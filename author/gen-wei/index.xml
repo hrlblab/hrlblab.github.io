@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gen Wei | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/gen-wei/</link>
+      <atom:link href="https://hrlblab.github.io/author/gen-wei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gen Wei</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Gen Wei</title>
+      <link>https://hrlblab.github.io/author/gen-wei/</link>
+    </image>
+    
+    <item>
+      <title>An adaptive threshold for the Canny Operator of edge detection</title>
+      <link>https://hrlblab.github.io/publication/huo-2010-adaptive/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/huo-2010-adaptive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

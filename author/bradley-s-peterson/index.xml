@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bradley S Peterson | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/bradley-s-peterson/</link>
+      <atom:link href="https://hrlblab.github.io/author/bradley-s-peterson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bradley S Peterson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Bradley S Peterson</title>
+      <link>https://hrlblab.github.io/author/bradley-s-peterson/</link>
+    </image>
+    
+    <item>
+      <title>Reduced perfusion in Broca&#39;s area in developmental stuttering</title>
+      <link>https://hrlblab.github.io/publication/desai-2017-reduced/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/desai-2017-reduced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reward-based spatial learning in unmedicated adults with obsessive-compulsive disorder</title>
+      <link>https://hrlblab.github.io/publication/marsh-2015-reward/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/marsh-2015-reward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A functional imaging study of self-regulatory capacities in persons who stutter</title>
+      <link>https://hrlblab.github.io/publication/liu-2014-functional/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/liu-2014-functional/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
