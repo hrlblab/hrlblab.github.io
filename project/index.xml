@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | HRLB Lab</title>
+    <link>https://hrlblab.github.io/project/</link>
+      <atom:link href="https://hrlblab.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://hrlblab.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>MAg: a Simple Learning-based Patient-level Aggregation Method for Detecting Microsatellite Instability from Whole-slide Images</title>
+      <link>https://hrlblab.github.io/project/2022_kaifeng_isbi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2022_kaifeng_isbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circle Representation for Medical Object Detection</title>
+      <link>https://hrlblab.github.io/project/2021_circlenet_tmi/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2021_circlenet_tmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster Mean-shift: GPU-accelerated Embedding-clustering for Cell Segmentation and Tracking</title>
+      <link>https://hrlblab.github.io/project/2021_fastermeanshift_media/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2021_fastermeanshift_media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Map3D: Registration Based Multi-Object Tracking on 3D Serial Whole Slide Images</title>
+      <link>https://hrlblab.github.io/project/2021_map3d_tmi/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2021_map3d_tmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SimTriplet: Simple Triplet Representation Learning with a Single GPU</title>
+      <link>https://hrlblab.github.io/project/2021_simtriplet_miccai/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2021_simtriplet_miccai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pancreas CT Segmentation by Predictive Phenotyping</title>
+      <link>https://hrlblab.github.io/project/2021_yucheng_miccai/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2021_yucheng_miccai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lung Cancer Risk Estimation with Incomplete Data: A Joint Missing Imputation Perspective</title>
+      <link>https://hrlblab.github.io/project/2021_riqiang_miccai/</link>
+      <pubDate>Mon, 25 Oct 2021 01:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2021_riqiang_miccai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Brain to Body: Learning Low-Frequency Respiration and Cardiac Signals from fMRI Dynamics</title>
+      <link>https://hrlblab.github.io/project/2021_roza_miccai/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2021_roza_miccai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI Applications in Renal Pathology</title>
+      <link>https://hrlblab.github.io/project/2021_aikidneypath_ki/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2021_aikidneypath_ki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASIST: Annotation-free Synthetic Instance Segmentation and Tracking by Adversarial Simulations</title>
+      <link>https://hrlblab.github.io/project/2021_assit_com/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2021_assit_com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BEDs: Bagging Ensemble Deep Segmentation for Nucleus Segmentation with Testing Stage Stain Augmentation</title>
+      <link>https://hrlblab.github.io/project/2021_beds_isbi/</link>
+      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2021_beds_isbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compound Figure Separation of Biomedical Images with Side Loss</title>
+      <link>https://hrlblab.github.io/project/2021_compoundfigure_miccai/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2021_compoundfigure_miccai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VoxelEmbed: 3D Instance Segmentation and Tracking with Voxel Embedding based Deep Learning</title>
+      <link>https://hrlblab.github.io/project/2021_voxelembed_miccai/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2021_voxelembed_miccai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CaCL: Class-aware Codebook Learning for Weakly Supervised Segmentation on Diffuse Image Patterns</title>
+      <link>https://hrlblab.github.io/project/2021_cacl_miccai/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2021_cacl_miccai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Multi-Channel Image Synthesis for Multiplexed Immunofluorescence Imaging</title>
+      <link>https://hrlblab.github.io/project/2021_mxif_compay/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2021_mxif_compay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Limitation of Acyclic Oriented Graphs Matching as Cell Tracking Accuracy Measure when Evaluating Mitosis</title>
+      <link>https://hrlblab.github.io/project/2021_aogm_spie/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2021_aogm_spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GAN based Unsupervised Segmentation: Should We Match the Exact Number of Objects</title>
+      <link>https://hrlblab.github.io/project/2021_cellgan_spie/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2021_cellgan_spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improve Global Glomerulosclerosis Classification with Imbalanced Data using CircleMix Augmentation</title>
+      <link>https://hrlblab.github.io/project/2021_circlemix_spie/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2021_circlemix_spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measure Partial Liver Volumetric Variations from Paired Inspiratory-expiratory Chest CT Scans</title>
+      <link>https://hrlblab.github.io/project/2021_ctelastic_spie/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2021_ctelastic_spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instance Segmentation for Whole Slide Imaging: End-to-End or Detect-Then-Segment</title>
+      <link>https://hrlblab.github.io/project/2020_aadarsh_jmi/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2020_aadarsh_jmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CircleNet: Anchor-free Detection with Circle Representation</title>
+      <link>https://hrlblab.github.io/project/2020_circlenet_miccai/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2020_circlenet_miccai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deep Pattern Recognition Approach for Inferring Respiratory Volume Fluctuations from fMRI Data</title>
+      <link>https://hrlblab.github.io/project/2020_roza_miccai/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2020_roza_miccai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliable Liver Fibrosis Assessment from Ultrasound using Global Hetero-Image Fusion and View-Specific Parameterization</title>
+      <link>https://hrlblab.github.io/project/2020_bowen_miccai/</link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2020_bowen_miccai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lesion Harvester: Iteratively Mining Unlabeled Lesions and Hard-Negative Examples at Scale</title>
+      <link>https://hrlblab.github.io/project/2020_jimmy_tmi/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2020_jimmy_tmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harvesting, Detecting, and Characterizing Liver Lesions from Large-scale Multi-phase CT Data via Deep Dynamic Texture Learning</title>
+      <link>https://hrlblab.github.io/project/2020_huo_arxiv/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2020_huo_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Value of Nullspace Tuning Using Partial Label Information</title>
+      <link>https://hrlblab.github.io/project/2020_colin_arxiv/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2020_colin_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-Heterogeneous and Adaptive Segmentation from Multi-Source and Multi-Phase CT Imaging Data: A Study on Pathological Liver and Lesion Segmentation</title>
+      <link>https://hrlblab.github.io/project/2020_ashwin_eccv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2020_ashwin_eccv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JSSR: A Joint Synthesis, Segmentation, and Registration System for 3D Multi-Modal Image Alignment of Large-scale Pathological CT Scans</title>
+      <link>https://hrlblab.github.io/project/2020_fengze_eccv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2020_fengze_eccv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

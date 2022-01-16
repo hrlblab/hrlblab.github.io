@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 | HRLB Lab</title>
+    <link>https://hrlblab.github.io/publication-type/8/</link>
+      <atom:link href="https://hrlblab.github.io/publication-type/8/index.xml" rel="self" type="application/rss+xml" />
+    <description>8</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>8</title>
+      <link>https://hrlblab.github.io/publication-type/8/</link>
+    </image>
+    
+    <item>
+      <title>Device and method for alignment of multi-modal clinical images using joint synthesis, segmentation, and registration</title>
+      <link>https://hrlblab.github.io/publication/jinzheng-2021-device/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/jinzheng-2021-device/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems and methods for tumor characterization</title>
+      <link>https://hrlblab.github.io/publication/harrison-2021-systems/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/harrison-2021-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-heterogeneous and adaptive 3d pathological abdominal organ segmentation using multi-source and multi-phase clinical image datasets</title>
+      <link>https://hrlblab.github.io/publication/harrison-2021-co/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/harrison-2021-co/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and system for harvesting lesion annotations</title>
+      <link>https://hrlblab.github.io/publication/jinzheng-2021-method/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/jinzheng-2021-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation, landmark detection and view classification using multi-task learning</title>
+      <link>https://hrlblab.github.io/publication/zhoubing-2021-segmentation/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/zhoubing-2021-segmentation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

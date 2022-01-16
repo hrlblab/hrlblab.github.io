@@ -29,10 +29,26 @@
     </item>
     
     <item>
+      <title>Body Part Regression With Self-Supervision</title>
+      <link>https://hrlblab.github.io/publication/tang-2021-body/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2021-body/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Circle Representation for Medical Object Detection</title>
       <link>https://hrlblab.github.io/publication/nguyen-2021-circle/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://hrlblab.github.io/publication/nguyen-2021-circle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compound Figure Separation of Biomedical Images with Side Loss</title>
+      <link>https://hrlblab.github.io/publication/yao-2021-compound/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/yao-2021-compound/</guid>
       <description></description>
     </item>
     
@@ -65,6 +81,14 @@
       <link>https://hrlblab.github.io/publication/zhao-2021-faster/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://hrlblab.github.io/publication/zhao-2021-faster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-resolution 3D abdominal segmentation with random patch network fusion</title>
+      <link>https://hrlblab.github.io/publication/tang-2021-high/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2021-high/</guid>
       <description></description>
     </item>
     
@@ -189,6 +213,14 @@
     </item>
     
     <item>
+      <title>Outlier guided optimization of abdominal segmentation</title>
+      <link>https://hrlblab.github.io/publication/xu-2020-outlier/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/xu-2020-outlier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prediction of Type II Diabetes Onset with Computed Tomography and Electronic Medical Records</title>
       <link>https://hrlblab.github.io/publication/tang-2020-prediction/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -205,6 +237,14 @@
     </item>
     
     <item>
+      <title>Semi-supervised multi-organ segmentation through quality assurance supervision</title>
+      <link>https://hrlblab.github.io/publication/lee-2020-semi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/lee-2020-semi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Value of Nullspace Tuning Using Partial Label Information</title>
       <link>https://hrlblab.github.io/publication/hansen-2020-value/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -213,10 +253,34 @@
     </item>
     
     <item>
+      <title>Validation and Optimization of Multi-Organ Segmentation on Clinical Imaging Archives</title>
+      <link>https://hrlblab.github.io/publication/xu-2020-validation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/xu-2020-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation and optimization of multi-organ segmentation on clinical imaging archives</title>
+      <link>https://hrlblab.github.io/publication/tang-2020-validation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/tang-2020-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>3D whole brain segmentation using spatially localized atlas network tiles</title>
       <link>https://hrlblab.github.io/publication/huo-20193-d/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://hrlblab.github.io/publication/huo-20193-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An end to end automated pipeline for brain structure segmentation in multiple sclerosis patients</title>
+      <link>https://hrlblab.github.io/publication/gonzalez-2019-end/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/gonzalez-2019-end/</guid>
       <description></description>
     </item>
     

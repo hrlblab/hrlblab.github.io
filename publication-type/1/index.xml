@@ -237,6 +237,14 @@
     </item>
     
     <item>
+      <title>Development of a lung nodule cohort with integrated clinical, molecular and imaging biomarkers</title>
+      <link>https://hrlblab.github.io/publication/antic-2019-development/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/antic-2019-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Distanced LSTM: time-distanced gates in long short-term memory models for lung cancer detection</title>
       <link>https://hrlblab.github.io/publication/gao-2019-distanced/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -282,6 +290,25 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://hrlblab.github.io/publication/huo-2018-splenomegaly/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://hrlblab.github.io/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>

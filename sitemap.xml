@@ -2,19 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hrlblab.github.io/research/slider/</loc>
-  </url><url>
     <loc>https://hrlblab.github.io/event/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2022-01-18T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2022-01-18T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2022-01-18T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/publication-type/2/</loc>
     <lastmod>2022-01-13T23:15:07-06:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/tag/2022/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/authors/</loc>
     <lastmod>2022-01-13T23:15:07-06:00</lastmod>
@@ -31,11 +32,20 @@
     <loc>https://hrlblab.github.io/author/ilwoo-lyu/</loc>
     <lastmod>2022-01-13T23:15:07-06:00</lastmod>
   </url><url>
+    <loc>https://hrlblab.github.io/project/2022_kaifeng_isbi/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hrlblab.github.io/publication_types/</loc>
     <lastmod>2022-01-13T23:15:07-06:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/publication/</loc>
     <lastmod>2022-01-13T23:15:07-06:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/tags/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/author/ying-wei/</loc>
     <lastmod>2022-01-13T23:15:07-06:00</lastmod>
@@ -46,16 +56,31 @@
     <loc>https://hrlblab.github.io/author/yue-liu/</loc>
     <lastmod>2022-01-13T23:15:07-06:00</lastmod>
   </url><url>
+    <loc>https://hrlblab.github.io/tag/2021/</loc>
+    <lastmod>2021-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2021_circlenet_tmi/</loc>
+    <lastmod>2021-12-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hrlblab.github.io/post/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/post/20-12-01-wowchemy-prize/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://hrlblab.github.io/project/2021_fastermeanshift_media/</loc>
+    <lastmod>2021-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2021_map3d_tmi/</loc>
+    <lastmod>2021-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2021_simtriplet_miccai/</loc>
+    <lastmod>2021-11-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hrlblab.github.io/author/others/</loc>
     <lastmod>2022-01-13T23:15:04-06:00</lastmod>
   </url><url>
-    <loc>https://hrlblab.github.io/publication-type/0/</loc>
+    <loc>https://hrlblab.github.io/publication-type/8/</loc>
     <lastmod>2022-01-13T23:15:04-06:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/author/adam-p-harrison/</loc>
@@ -70,6 +95,18 @@
     <loc>https://hrlblab.github.io/author/le-lu/</loc>
     <lastmod>2022-01-13T23:15:04-06:00</lastmod>
   </url><url>
+    <loc>https://hrlblab.github.io/project/2021_yucheng_miccai/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2021_riqiang_miccai/</loc>
+    <lastmod>2021-10-25T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2021_roza_miccai/</loc>
+    <lastmod>2021-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2021_aikidneypath_ki/</loc>
+    <lastmod>2021-09-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hrlblab.github.io/author/raju-ashwin/</loc>
     <lastmod>2022-01-13T23:14:58-06:00</lastmod>
   </url><url>
@@ -79,11 +116,44 @@
     <loc>https://hrlblab.github.io/author/yan-ke/</loc>
     <lastmod>2022-01-13T23:14:58-06:00</lastmod>
   </url><url>
+    <loc>https://hrlblab.github.io/project/2021_assit_com/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/event/ds5660_f2021/</loc>
+    <lastmod>2021-08-26T13:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hrlblab.github.io/publication/harrison-2021-co/</loc>
     <lastmod>2022-01-13T23:14:48-06:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/publication/jinzheng-2021-method/</loc>
     <lastmod>2022-01-13T23:14:47-06:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2021_beds_isbi/</loc>
+    <lastmod>2021-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2021_compoundfigure_miccai/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2021_voxelembed_miccai/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2021_cacl_miccai/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2021_mxif_compay/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2021_aogm_spie/</loc>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2021_cellgan_spie/</loc>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2021_circlemix_spie/</loc>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2021_ctelastic_spie/</loc>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/author/jin-hyeong-park/</loc>
     <lastmod>2022-01-13T23:13:06-06:00</lastmod>
@@ -99,6 +169,9 @@
   </url><url>
     <loc>https://hrlblab.github.io/author/xu-zhoubing/</loc>
     <lastmod>2022-01-13T23:13:06-06:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/event/cs3891_s2021/</loc>
+    <lastmod>2021-01-26T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/publication-type/1/</loc>
     <lastmod>2022-01-13T23:14:55-06:00</lastmod>
@@ -346,6 +419,9 @@
     <loc>https://hrlblab.github.io/author/jj-carr/</loc>
     <lastmod>2022-01-13T23:14:31-06:00</lastmod>
   </url><url>
+    <loc>https://hrlblab.github.io/author/joe-r-roland/</loc>
+    <lastmod>2022-01-13T23:14:51-06:00</lastmod>
+  </url><url>
     <loc>https://hrlblab.github.io/author/jorge-a-salas/</loc>
     <lastmod>2022-01-13T23:14:53-06:00</lastmod>
   </url><url>
@@ -354,9 +430,6 @@
   </url><url>
     <loc>https://hrlblab.github.io/author/joseph-t-roland/</loc>
     <lastmod>2022-01-13T23:14:59-06:00</lastmod>
-  </url><url>
-    <loc>https://hrlblab.github.io/author/jr-roland/</loc>
-    <lastmod>2022-01-13T23:14:51-06:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/author/kaiwen-xu/</loc>
     <lastmod>2022-01-13T23:14:56-06:00</lastmod>
@@ -380,7 +453,7 @@
     <lastmod>2022-01-13T23:15:02-06:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/author/lee-e-wheless/</loc>
-    <lastmod>2022-01-13T23:14:20-06:00</lastmod>
+    <lastmod>2022-01-13T23:14:26-06:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/author/leon-y-cai/</loc>
     <lastmod>2022-01-13T23:15:00-06:00</lastmod>
@@ -532,9 +605,6 @@
     <loc>https://hrlblab.github.io/author/ruining-deng/</loc>
     <lastmod>2022-01-13T23:15:06-06:00</lastmod>
   </url><url>
-    <loc>https://hrlblab.github.io/author/s-amd-tang/</loc>
-    <lastmod>2022-01-13T23:14:51-06:00</lastmod>
-  </url><url>
     <loc>https://hrlblab.github.io/author/sanja-l-antic/</loc>
     <lastmod>2022-01-13T23:13:50-06:00</lastmod>
   </url><url>
@@ -643,9 +713,6 @@
     <loc>https://hrlblab.github.io/author/xing-li/</loc>
     <lastmod>2022-01-13T23:14:20-06:00</lastmod>
   </url><url>
-    <loc>https://hrlblab.github.io/author/y-bao/</loc>
-    <lastmod>2022-01-13T23:14:51-06:00</lastmod>
-  </url><url>
     <loc>https://hrlblab.github.io/author/yang-an/</loc>
     <lastmod>2022-01-13T23:14:27-06:00</lastmod>
   </url><url>
@@ -694,8 +761,38 @@
     <loc>https://hrlblab.github.io/author/zuhayr-asad/</loc>
     <lastmod>2022-01-13T23:15:06-06:00</lastmod>
   </url><url>
+    <loc>https://hrlblab.github.io/tag/2020/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2020_aadarsh_jmi/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2020_circlenet_miccai/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2020_roza_miccai/</loc>
+    <lastmod>2020-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2020_bowen_miccai/</loc>
+    <lastmod>2020-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hrlblab.github.io/post/20-12-02-icml-best-paper/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2020_jimmy_tmi/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2020_huo_arxiv/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2020_colin_arxiv/</loc>
+    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/event/ds5660_f2020/</loc>
+    <lastmod>2020-08-26T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/event/cs8395_s2020/</loc>
+    <lastmod>2020-01-26T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/publication/bayrak-2020-deep/</loc>
     <lastmod>2022-01-13T23:13:46-06:00</lastmod>
@@ -937,9 +1034,6 @@
     <loc>https://hrlblab.github.io/publication/huo-20193-d/</loc>
     <lastmod>2022-01-13T23:06:12-06:00</lastmod>
   </url><url>
-    <loc>https://hrlblab.github.io/author/a-oliver/</loc>
-    <lastmod>2022-01-13T23:13:07-06:00</lastmod>
-  </url><url>
     <loc>https://hrlblab.github.io/author/a-paulson/</loc>
     <lastmod>2022-01-13T23:13:08-06:00</lastmod>
   </url><url>
@@ -972,9 +1066,6 @@
   </url><url>
     <loc>https://hrlblab.github.io/author/b-landman/</loc>
     <lastmod>2022-01-13T23:13:08-06:00</lastmod>
-  </url><url>
-    <loc>https://hrlblab.github.io/author/ba-landman/</loc>
-    <lastmod>2022-01-13T23:13:07-06:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/author/barry-i-freedman/</loc>
     <lastmod>2022-01-13T23:12:58-06:00</lastmod>
@@ -1093,12 +1184,6 @@
     <loc>https://hrlblab.github.io/author/s-deppen/</loc>
     <lastmod>2022-01-13T23:13:08-06:00</lastmod>
   </url><url>
-    <loc>https://hrlblab.github.io/author/s-gonzalez-villa/</loc>
-    <lastmod>2022-01-13T23:13:07-06:00</lastmod>
-  </url><url>
-    <loc>https://hrlblab.github.io/author/s-valverde/</loc>
-    <lastmod>2022-01-13T23:13:07-06:00</lastmod>
-  </url><url>
     <loc>https://hrlblab.github.io/author/sangeeta-nair/</loc>
     <lastmod>2022-01-13T23:12:58-06:00</lastmod>
   </url><url>
@@ -1107,6 +1192,9 @@
   </url><url>
     <loc>https://hrlblab.github.io/author/sara-block/</loc>
     <lastmod>2022-01-13T23:13:00-06:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/author/sergi-valverde/</loc>
+    <lastmod>2022-01-13T23:13:07-06:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/author/shikha-chaganti/</loc>
     <lastmod>2022-01-13T23:12:59-06:00</lastmod>
@@ -1129,9 +1217,6 @@
     <loc>https://hrlblab.github.io/author/vaibhav-janve/</loc>
     <lastmod>2022-01-13T23:13:03-06:00</lastmod>
   </url><url>
-    <loc>https://hrlblab.github.io/author/x-llado/</loc>
-    <lastmod>2022-01-13T23:13:07-06:00</lastmod>
-  </url><url>
     <loc>https://hrlblab.github.io/author/y-huo/</loc>
     <lastmod>2022-01-13T23:13:08-06:00</lastmod>
   </url><url>
@@ -1140,6 +1225,9 @@
   </url><url>
     <loc>https://hrlblab.github.io/author/yurui-gao/</loc>
     <lastmod>2022-01-13T23:13:03-06:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/event/cs8395_f2018/</loc>
+    <lastmod>2018-08-26T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/publication/huo-2018-adversarial/</loc>
     <lastmod>2022-01-13T23:06:17-06:00</lastmod>
@@ -1261,6 +1349,12 @@
     <loc>https://hrlblab.github.io/author/stephanie-m-davidson/</loc>
     <lastmod>2022-01-13T23:05:56-06:00</lastmod>
   </url><url>
+    <loc>https://hrlblab.github.io/publication/example/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/author/robert-ford/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hrlblab.github.io/publication/zhang-2011-artificial/</loc>
     <lastmod>2022-01-13T23:05:47-06:00</lastmod>
   </url><url>
@@ -1268,7 +1362,7 @@
     <lastmod>2022-01-13T23:05:53-06:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/author/lenan-wu/</loc>
-    <lastmod>2022-01-13T23:05:53-06:00</lastmod>
+    <lastmod>2022-01-13T23:05:55-06:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/publication/zhang-2011-multi/</loc>
     <lastmod>2022-01-13T23:05:49-06:00</lastmod>
@@ -1277,7 +1371,7 @@
     <lastmod>2022-01-13T23:05:53-06:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/author/yudong-zhang/</loc>
-    <lastmod>2022-01-13T23:05:53-06:00</lastmod>
+    <lastmod>2022-01-13T23:05:55-06:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/author/aijun-liu/</loc>
     <lastmod>2022-01-13T23:05:51-06:00</lastmod>
@@ -1291,13 +1385,7 @@
     <loc>https://hrlblab.github.io/author/gen-wei/</loc>
     <lastmod>2022-01-13T23:05:55-06:00</lastmod>
   </url><url>
-    <loc>https://hrlblab.github.io/author/le-nan-wu/</loc>
-    <lastmod>2022-01-13T23:05:55-06:00</lastmod>
-  </url><url>
-    <loc>https://hrlblab.github.io/author/yu-dong-zhang/</loc>
-    <lastmod>2022-01-13T23:05:55-06:00</lastmod>
-  </url><url>
-    <loc>https://hrlblab.github.io/author/yuan-kai-huo/</loc>
+    <loc>https://hrlblab.github.io/author/yuankai-huo/</loc>
     <lastmod>2022-01-13T23:05:55-06:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/admin/</loc>
@@ -1306,14 +1394,18 @@
   </url><url>
     <loc>https://hrlblab.github.io/people/</loc>
   </url><url>
-    <loc>https://hrlblab.github.io/categories/</loc>
-  </url><url>
     <loc>https://hrlblab.github.io/research/</loc>
   </url><url>
+    <loc>https://hrlblab.github.io/author/cancathy-cui/</loc>
+  </url><url>
+    <loc>https://hrlblab.github.io/categories/</loc>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2020_ashwin_eccv/</loc>
+  </url><url>
+    <loc>https://hrlblab.github.io/author/jiachen-charlie-xu/</loc>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2020_fengze_eccv/</loc>
+  </url><url>
     <loc>https://hrlblab.github.io/author/ruining-deng/</loc>
-  </url><url>
-    <loc>https://hrlblab.github.io/tags/</loc>
-  </url><url>
-    <loc>https://hrlblab.github.io/author/yuankai-huo-phd/</loc>
   </url>
 </urlset>
