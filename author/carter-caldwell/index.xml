@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carter Caldwell | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/carter-caldwell/</link>
+      <atom:link href="https://hrlblab.github.io/author/carter-caldwell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carter Caldwell</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright>
+    <image>
+      <url>https://hrlblab.github.io/author/carter-caldwell/avatar_hue5ee9d24a025bca99c9515507dafe249_60138_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Carter Caldwell</title>
+      <link>https://hrlblab.github.io/author/carter-caldwell/</link>
+    </image>
+    
+  </channel>
+</rss>
