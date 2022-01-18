@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethan Nguyen | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/ethan-nguyen/</link>
+      <atom:link href="https://hrlblab.github.io/author/ethan-nguyen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ethan Nguyen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright>
+    <image>
+      <url>https://hrlblab.github.io/author/ethan-nguyen/avatar_hu630737a8d086b395a46288bda6bfa6d4_152779_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ethan Nguyen</title>
+      <link>https://hrlblab.github.io/author/ethan-nguyen/</link>
+    </image>
+    
+  </channel>
+</rss>
