@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2023 | HRLB Lab</title>
+    <link>https://hrlblab.github.io/tag/2023/</link>
+      <atom:link href="https://hrlblab.github.io/tag/2023/index.xml" rel="self" type="application/rss+xml" />
+    <description>2023</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>2023</title>
+      <link>https://hrlblab.github.io/tag/2023/</link>
+    </image>
+    
+    <item>
+      <title>WearMask: Fast In-browser Face Mask Detection with Serverless Edge Computing for COVID-19</title>
+      <link>https://hrlblab.github.io/project/2023_zekun_hpci/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2023_zekun_hpci/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hrlblab.github.io/event/example/</loc>
-    <lastmod>2022-01-18T13:00:00+00:00</lastmod>
+    <loc>https://hrlblab.github.io/tag/2023/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/tags/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2023_zekun_hpci/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/event/example/</loc>
     <lastmod>2022-01-18T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/event/</loc>
@@ -14,13 +26,58 @@
     <loc>https://hrlblab.github.io/tag/2022/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://hrlblab.github.io/project/2022_ethan_mlmi/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2022_tianyuan_jmlbi/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2022_ruining_mmmi/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2022_ruining_spie/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2022_yuxuan_spie/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2022_cam_spie/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2022_tianyuan_jmi/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2022_yuzhe_jmi/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2022_shunxing_spie/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2022_quan_spie/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2022_zheyu_miua/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2022_quan_remia/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hrlblab.github.io/project/2022_kaifeng_isbi/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hrlblab.github.io/project/</loc>
+    <loc>https://hrlblab.github.io/project/2022_can_spie/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hrlblab.github.io/tags/</loc>
+    <loc>https://hrlblab.github.io/project/2022_shunxing_movi/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2022_ruining_midl/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2022_tianyuan_spie/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hrlblab.github.io/project/2022_can_miccai/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/tag/2021/</loc>
@@ -61,9 +118,6 @@
   </url><url>
     <loc>https://hrlblab.github.io/event/ds5660_f2021/</loc>
     <lastmod>2021-08-26T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hrlblab.github.io/project/2021_zekun_arxiv/</loc>
-    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hrlblab.github.io/project/2021_beds_isbi/</loc>
     <lastmod>2021-06-27T00:00:00+00:00</lastmod>

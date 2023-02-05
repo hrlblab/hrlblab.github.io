@@ -13,10 +13,146 @@
     </image>
     
     <item>
+      <title>CircleSnake: Instance Segmentation with Circle Representation</title>
+      <link>https://hrlblab.github.io/project/2022_ethan_mlmi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2022_ethan_mlmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compound Figure Separation of Biomedical Images: Mining Large Datasets for Self-supervised Learning</title>
+      <link>https://hrlblab.github.io/project/2022_tianyuan_jmlbi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2022_tianyuan_jmlbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-scale Attention Guided Multi-instance Learning for Crohns Disease Diagnosis with Pathological Images</title>
+      <link>https://hrlblab.github.io/project/2022_ruining_mmmi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2022_ruining_mmmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dense Multi-object 3D Glomerular Reconstruction and Quantification on 2D Serial Section Whole Slide Image</title>
+      <link>https://hrlblab.github.io/project/2022_ruining_spie/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2022_ruining_spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eosinophilic Esophagitis Multi-label Feature Recognition on Whole Slide Imaging using Transfer Learning</title>
+      <link>https://hrlblab.github.io/project/2022_yuxuan_spie/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2022_yuxuan_spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Transformer-based Semantic Segmentation Networks for Pathological Image Segmentation</title>
+      <link>https://hrlblab.github.io/project/2022_cam_spie/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2022_cam_spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glo-In-One: Holistic Glomerular Detection, Segmentation, and Lesion Characterization with Large-scale Web Image Mining</title>
+      <link>https://hrlblab.github.io/project/2022_tianyuan_jmi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2022_tianyuan_jmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holistic Fine-grained GGS Characterization: From Detection to Unbalanced Classification</title>
+      <link>https://hrlblab.github.io/project/2022_yuzhe_jmi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2022_yuzhe_jmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inpainting Missing Tissue in Multiplexed Immunofluorescence Imaging</title>
+      <link>https://hrlblab.github.io/project/2022_shunxing_spie/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2022_shunxing_spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrate Memory Efficiency Methods for Self-supervised Learning on Pathological Image Analysis</title>
+      <link>https://hrlblab.github.io/project/2022_quan_spie/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2022_quan_spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-Scale Patch-Wise Pathological Image Feature Dataset with a Hardware-agnostic Feature Extraction Tool</title>
+      <link>https://hrlblab.github.io/project/2022_zheyu_miua/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2022_zheyu_miua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leverage Supervised and Self-supervised Pretrain Models for Pathological Survival Analysis via a Simple and Low-cost Joint Representation Tuning</title>
+      <link>https://hrlblab.github.io/project/2022_quan_remia/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2022_quan_remia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MAg: a Simple Learning-based Patient-level Aggregation Method for Detecting Microsatellite Instability from Whole-slide Images</title>
       <link>https://hrlblab.github.io/project/2022_kaifeng_isbi/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://hrlblab.github.io/project/2022_kaifeng_isbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-modal Learning with Missing Data for Cancer Diagnosis using Histopathological and Genomic Data</title>
+      <link>https://hrlblab.github.io/project/2022_can_spie/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2022_can_spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MxIF Q-score: Biology-Informed Quality Assurance for Multiplexed Immunofluorescence Imaging</title>
+      <link>https://hrlblab.github.io/project/2022_shunxing_movi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2022_shunxing_movi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Omni-Seg: A Single Dynamic Network for Multi-label Renal Pathology Image Segmentation using Partially Labeled Data</title>
+      <link>https://hrlblab.github.io/project/2022_ruining_midl/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2022_ruining_midl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-supervised Learning with Large-scale Web Image Mining for Characterizing Glomerular Lesion</title>
+      <link>https://hrlblab.github.io/project/2022_tianyuan_spie/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2022_tianyuan_spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survival Prediction of Brain Cancer with Incomplete Radiology, Pathology, Genomic, and Demographic Data</title>
+      <link>https://hrlblab.github.io/project/2022_can_miccai/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2022_can_miccai/</guid>
       <description></description>
     </item>
     
