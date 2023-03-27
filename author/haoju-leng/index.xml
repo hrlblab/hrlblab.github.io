@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haoju Leng | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/haoju-leng/</link>
+      <atom:link href="https://hrlblab.github.io/author/haoju-leng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haoju Leng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright>
+    <image>
+      <url>https://hrlblab.github.io/author/haoju-leng/avatar_huf5d674ffda874c59e4949027e0515586_1421686_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Haoju Leng</title>
+      <link>https://hrlblab.github.io/author/haoju-leng/</link>
+    </image>
+    
+  </channel>
+</rss>
