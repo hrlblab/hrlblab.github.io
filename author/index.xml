@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/</link>
+      <atom:link href="https://hrlblab.github.io/author/index.xml" rel="self" type="application/rss+xml" />
+    <description>HRLB Lab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright>
+    <image>
+      <url>https://hrlblab.github.io/author/avatar_hub84e1e4ea3a298da6d75fa9beb359f73_65551_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>HRLB Lab</title>
+      <link>https://hrlblab.github.io/author/</link>
+    </image>
+    
+  </channel>
+</rss>
