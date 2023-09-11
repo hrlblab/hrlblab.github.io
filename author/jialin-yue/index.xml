@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jialin Yue | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/jialin-yue/</link>
+      <atom:link href="https://hrlblab.github.io/author/jialin-yue/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jialin Yue</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright>
+    <image>
+      <url>https://hrlblab.github.io/author/jialin-yue/avatar_hu5cc2f0ed6ba63909796584c189efa4fa_135780_270x270_fill_q75_lanczos_center.JPG</url>
+      <title>Jialin Yue</title>
+      <link>https://hrlblab.github.io/author/jialin-yue/</link>
+    </image>
+    
+  </channel>
+</rss>
