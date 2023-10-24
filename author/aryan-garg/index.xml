@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aryan Garg | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/aryan-garg/</link>
+      <atom:link href="https://hrlblab.github.io/author/aryan-garg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aryan Garg</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright>
+    <image>
+      <url>https://hrlblab.github.io/author/aryan-garg/avatar_hu14ec790e8c0c0f91211677d5ef46cb04_14536_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Aryan Garg</title>
+      <link>https://hrlblab.github.io/author/aryan-garg/</link>
+    </image>
+    
+  </channel>
+</rss>
