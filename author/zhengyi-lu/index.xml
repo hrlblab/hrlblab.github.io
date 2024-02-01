@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhengyi Lu | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/zhengyi-lu/</link>
+      <atom:link href="https://hrlblab.github.io/author/zhengyi-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhengyi Lu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright>
+    <image>
+      <url>https://hrlblab.github.io/author/zhengyi-lu/avatar_hud311d879c19ef71fd5517cc470f4307c_1031442_270x270_fill_lanczos_center_3.png</url>
+      <title>Zhengyi Lu</title>
+      <link>https://hrlblab.github.io/author/zhengyi-lu/</link>
+    </image>
+    
+  </channel>
+</rss>
