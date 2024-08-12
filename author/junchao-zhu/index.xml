@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junchao Zhu | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/junchao-zhu/</link>
+      <atom:link href="https://hrlblab.github.io/author/junchao-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junchao Zhu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright>
+    <image>
+      <url>https://hrlblab.github.io/author/junchao-zhu/avatar_hu02b0ae6b9976e51c33d2d1affde98bad_101852_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Junchao Zhu</title>
+      <link>https://hrlblab.github.io/author/junchao-zhu/</link>
+    </image>
+    
+  </channel>
+</rss>
