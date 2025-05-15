@@ -12,5 +12,54 @@
       <link>https://hrlblab.github.io/authors/</link>
     </image>
     
+    <item>
+      <title></title>
+      <link>https://hrlblab.github.io/author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/author/</guid>
+      <description>&lt;h1 id=&#34;display-name&#34;&gt;Display name&lt;/h1&gt;
+&lt;p&gt;title: Tobenna (Tobe) Udeze&lt;/p&gt;
+&lt;h1 id=&#34;is-this-the-primary-user-of-the-site&#34;&gt;Is this the primary user of the site?&lt;/h1&gt;
+&lt;p&gt;superuser: false&lt;/p&gt;
+&lt;h1 id=&#34;roleposition&#34;&gt;Role/position&lt;/h1&gt;
+&lt;p&gt;role: Undergraduate student in Computer Science&lt;/p&gt;
+&lt;h1 id=&#34;organizationsaffiliations&#34;&gt;Organizations/Affiliations&lt;/h1&gt;
+&lt;p&gt;organizations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;name: LinkedIn
+url: &amp;ldquo;&lt;a href=&#34;https://www.linkedin.com/in/tobenna-udeze-732a17244/%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.linkedin.com/in/tobenna-udeze-732a17244/&#34;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;short-bio-displayed-in-user-profile-at-end-of-posts&#34;&gt;Short bio (displayed in user profile at end of posts)&lt;/h1&gt;
+&lt;p&gt;bio: I am a fourth-year undergraduate student in Computer Science at Vanderbilt University, starting from August 2025.&lt;/p&gt;
+&lt;p&gt;interests:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Medical Image &amp;amp; Data Analysis&lt;/li&gt;
+&lt;li&gt;Deep Learning&lt;/li&gt;
+&lt;li&gt;Data Science&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;education:
+courses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;course: BS in Computer Science
+institution: Vanderbilt University
+year: 2022 - 2026&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;enter-email-to-display-gravatar-if-gravatar-enabled-in-config&#34;&gt;Enter email to display Gravatar (if Gravatar enabled in Config)&lt;/h1&gt;
+&lt;p&gt;email: “tobenna.d.udeze@vanderbilt.edu&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;highlight-the-author-in-author-lists-truefalse&#34;&gt;Highlight the author in author lists? (true/false)&lt;/h1&gt;
+&lt;p&gt;highlight_name: false&lt;/p&gt;
+&lt;h1 id=&#34;organizational-groups-that-you-belong-to-for-people-widget&#34;&gt;Organizational groups that you belong to (for People widget)&lt;/h1&gt;
+&lt;h1 id=&#34;set-this-to--or-comment-out-if-you-are-not-using-people-widget&#34;&gt;Set this to &lt;code&gt;[]&lt;/code&gt; or comment out if you are not using People widget.&lt;/h1&gt;
+&lt;p&gt;user_groups:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Undergraduate Students&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;I am a 4th year computer science major at Vanderbilt University from Wake Forest, North Carolina studying the applications of generative AI in denoising and de-obscuring of microscopic medical images under the guidance of Dr. Huo.&lt;/p&gt;
+&lt;p&gt;When I am not working, I enjoy playing soccer, running, photography and hanging out with friends
+Outside of research, I love running, playing soccer, photography and hanging out with friends!&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
