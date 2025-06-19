@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiarui (Larry) Wang | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/jiarui-larry-wang/</link>
+      <atom:link href="https://hrlblab.github.io/author/jiarui-larry-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiarui (Larry) Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright>
+    <image>
+      <url>https://hrlblab.github.io/author/jiarui-larry-wang/avatar_hufdd87e47c40a888c5846bca89a832909_130988_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jiarui (Larry) Wang</title>
+      <link>https://hrlblab.github.io/author/jiarui-larry-wang/</link>
+    </image>
+    
+  </channel>
+</rss>
