@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiao Li | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/xiao-li/</link>
+      <atom:link href="https://hrlblab.github.io/author/xiao-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiao Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright>
+    <image>
+      <url>https://hrlblab.github.io/author/xiao-li/avatar_hu03ae574aaf561d04bbf1c2cd137d421a_31580_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Xiao Li</title>
+      <link>https://hrlblab.github.io/author/xiao-li/</link>
+    </image>
+    
+  </channel>
+</rss>
