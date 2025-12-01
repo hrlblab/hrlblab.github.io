@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ziyang Zhang | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/ziyang-zhang/</link>
+      <atom:link href="https://hrlblab.github.io/author/ziyang-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ziyang Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright>
+    <image>
+      <url>https://hrlblab.github.io/author/ziyang-zhang/avatar_hu19f46ea14ab5e165d7c9940d9c088d6e_264534_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ziyang Zhang</title>
+      <link>https://hrlblab.github.io/author/ziyang-zhang/</link>
+    </image>
+    
+  </channel>
+</rss>
