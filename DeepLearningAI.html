@@ -1,0 +1,1416 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CS&ECE Deep Learning — Spring 2026 | Vanderbilt University</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;900&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --gold: #CFB53B;
+    --gold-light: #E8D27A;
+    --gold-dim: rgba(207,181,59,0.15);
+    --gold-dim2: rgba(207,181,59,0.08);
+    --navy: #0F1B2D;
+    --navy-mid: #162336;
+    --navy-light: #1E3050;
+    --black: #1A1A1A;
+    --warm-white: #FAFAF7;
+    --off-white: #F3F2EE;
+    --muted: #6B7280;
+    --muted-light: #9CA3AF;
+    --border: rgba(207,181,59,0.2);
+    --text-primary: #1A1A1A;
+    --text-secondary: #4B5563;
+    --snow-bg: rgba(186,210,235,0.18);
+    --break-bg: rgba(134,195,138,0.15);
+    --exam-bg: rgba(207,181,59,0.12);
+    --hw-accent: rgba(207,181,59,0.25);
+    --shadow-sm: 0 1px 3px rgba(15,27,45,0.08), 0 1px 2px rgba(15,27,45,0.05);
+    --shadow-md: 0 4px 16px rgba(15,27,45,0.10), 0 2px 6px rgba(15,27,45,0.07);
+    --shadow-lg: 0 12px 40px rgba(15,27,45,0.13), 0 4px 12px rgba(15,27,45,0.08);
+    --radius: 12px;
+    --radius-sm: 6px;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html {
+    scroll-behavior: smooth;
+    font-size: 16px;
+  }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--warm-white);
+    color: var(--text-primary);
+    line-height: 1.65;
+    overflow-x: hidden;
+  }
+
+  /* ── NAVBAR ── */
+  .navbar {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 1000;
+    background: rgba(15, 27, 45, 0.97);
+    backdrop-filter: blur(14px);
+    border-bottom: 1px solid rgba(207,181,59,0.18);
+    transition: box-shadow 0.3s;
+  }
+  .navbar.scrolled {
+    box-shadow: 0 2px 24px rgba(15,27,45,0.35);
+  }
+  .navbar-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    height: 62px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+  }
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    text-decoration: none;
+    flex-shrink: 0;
+  }
+  .navbar-star {
+    width: 32px;
+    height: 32px;
+    flex-shrink: 0;
+  }
+  .navbar-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: var(--gold);
+    letter-spacing: 0.01em;
+    line-height: 1.2;
+  }
+  .navbar-title span {
+    display: block;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.7rem;
+    font-weight: 400;
+    color: rgba(255,255,255,0.45);
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+  .navbar-nav {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    list-style: none;
+  }
+  .navbar-nav a {
+    display: block;
+    padding: 0.4rem 0.85rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: rgba(255,255,255,0.65);
+    text-decoration: none;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    border-radius: 4px;
+    transition: color 0.2s, background 0.2s;
+  }
+  .navbar-nav a:hover,
+  .navbar-nav a.active {
+    color: var(--gold);
+    background: rgba(207,181,59,0.1);
+  }
+
+  /* ── HERO ── */
+  .hero {
+    position: relative;
+    min-height: 100vh;
+    background: var(--navy);
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+  }
+  .hero-bg-gradient {
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse 80% 60% at 60% 30%, rgba(30,48,80,0.9) 0%, transparent 70%),
+      radial-gradient(ellipse 50% 50% at 10% 80%, rgba(207,181,59,0.07) 0%, transparent 60%),
+      linear-gradient(160deg, #0F1B2D 0%, #162336 50%, #0A1220 100%);
+  }
+  .hero-canvas {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+  }
+  .hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    padding-top: 62px;
+    width: 100%;
+  }
+  .hero-eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: var(--gold);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin-bottom: 1.5rem;
+    opacity: 0;
+    animation: fadeUp 0.8s 0.2s ease forwards;
+  }
+  .hero-eyebrow::before {
+    content: '';
+    display: block;
+    width: 28px;
+    height: 1.5px;
+    background: var(--gold);
+  }
+  .hero-title {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(2.8rem, 6vw, 5.2rem);
+    font-weight: 900;
+    line-height: 1.05;
+    color: #fff;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.5rem;
+    opacity: 0;
+    animation: fadeUp 0.8s 0.35s ease forwards;
+  }
+  .hero-title-accent {
+    display: block;
+    background: linear-gradient(95deg, var(--gold) 0%, var(--gold-light) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .hero-subtitle {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(1.2rem, 2.5vw, 1.7rem);
+    font-weight: 600;
+    color: rgba(255,255,255,0.45);
+    margin-bottom: 2.5rem;
+    letter-spacing: 0.01em;
+    opacity: 0;
+    animation: fadeUp 0.8s 0.5s ease forwards;
+  }
+  .hero-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-bottom: 3rem;
+    opacity: 0;
+    animation: fadeUp 0.8s 0.65s ease forwards;
+  }
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1.1rem;
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(207,181,59,0.25);
+    border-radius: 100px;
+    font-size: 0.82rem;
+    font-weight: 500;
+    color: rgba(255,255,255,0.8);
+    letter-spacing: 0.02em;
+    backdrop-filter: blur(8px);
+    transition: border-color 0.2s, background 0.2s;
+  }
+  .badge:hover {
+    border-color: var(--gold);
+    background: rgba(207,181,59,0.1);
+    color: #fff;
+  }
+  .badge-icon {
+    font-size: 0.9rem;
+    opacity: 0.7;
+  }
+  .hero-divider {
+    width: 64px;
+    height: 3px;
+    background: linear-gradient(90deg, var(--gold), transparent);
+    border-radius: 2px;
+    opacity: 0;
+    animation: fadeUp 0.8s 0.8s ease forwards;
+  }
+  .hero-scroll-hint {
+    position: absolute;
+    bottom: 2.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.4rem;
+    color: rgba(255,255,255,0.3);
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    animation: bounce 2s 2s infinite;
+  }
+  .hero-scroll-hint svg { opacity: 0.5; }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(24px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes bounce {
+    0%, 100% { transform: translateX(-50%) translateY(0); }
+    50%       { transform: translateX(-50%) translateY(6px); }
+  }
+
+  /* ── MAIN LAYOUT ── */
+  .site-main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem 6rem;
+  }
+
+  /* ── SECTION ── */
+  .section {
+    padding: 5rem 0 1rem;
+    scroll-margin-top: 80px;
+  }
+  .section-header {
+    display: flex;
+    align-items: flex-end;
+    gap: 1.25rem;
+    margin-bottom: 2.5rem;
+  }
+  .section-label {
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 0.35rem;
+  }
+  .section-title {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(1.6rem, 3vw, 2.2rem);
+    font-weight: 700;
+    color: var(--navy);
+    line-height: 1.15;
+    letter-spacing: -0.01em;
+  }
+  .section-rule {
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(90deg, var(--gold), rgba(207,181,59,0.08));
+    margin-bottom: 0.45rem;
+    max-width: 200px;
+  }
+
+  /* ── INFO GRID ── */
+  .info-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.25rem;
+    margin-bottom: 2rem;
+  }
+  .info-card {
+    background: #fff;
+    border: 1px solid rgba(0,0,0,0.07);
+    border-radius: var(--radius);
+    padding: 1.5rem 1.75rem;
+    box-shadow: var(--shadow-sm);
+    transition: box-shadow 0.25s, transform 0.25s;
+    position: relative;
+    overflow: hidden;
+  }
+  .info-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0;
+    width: 3px;
+    height: 100%;
+    background: linear-gradient(180deg, var(--gold), transparent);
+    border-radius: 2px 0 0 2px;
+    opacity: 0;
+    transition: opacity 0.25s;
+  }
+  .info-card:hover {
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
+  }
+  .info-card:hover::before {
+    opacity: 1;
+  }
+  .info-card-icon {
+    font-size: 1.4rem;
+    margin-bottom: 0.75rem;
+    display: block;
+  }
+  .info-card-title {
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 0.6rem;
+  }
+  .info-card-body {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    line-height: 1.7;
+  }
+  .info-card-body strong {
+    color: var(--text-primary);
+    font-weight: 600;
+  }
+  .info-card-body a {
+    color: var(--navy);
+    font-weight: 500;
+    text-decoration: none;
+    border-bottom: 1px solid var(--border);
+    transition: color 0.2s, border-color 0.2s;
+  }
+  .info-card-body a:hover {
+    color: var(--gold);
+    border-color: var(--gold);
+  }
+
+  /* ── DESCRIPTION CARD ── */
+  .desc-card {
+    background: var(--navy);
+    border-radius: var(--radius);
+    padding: 2rem 2.25rem;
+    color: rgba(255,255,255,0.8);
+    font-size: 0.97rem;
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+    position: relative;
+    overflow: hidden;
+  }
+  .desc-card::after {
+    content: '"';
+    position: absolute;
+    right: 1.5rem;
+    top: -0.5rem;
+    font-family: 'Playfair Display', serif;
+    font-size: 8rem;
+    color: rgba(207,181,59,0.06);
+    line-height: 1;
+    pointer-events: none;
+  }
+  .desc-card strong {
+    color: var(--gold);
+  }
+
+  /* ── TEAM ── */
+  .team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.25rem;
+  }
+  .team-card {
+    background: #fff;
+    border: 1px solid rgba(0,0,0,0.07);
+    border-radius: var(--radius);
+    padding: 1.75rem;
+    display: flex;
+    gap: 1.25rem;
+    align-items: flex-start;
+    box-shadow: var(--shadow-sm);
+    transition: box-shadow 0.25s, transform 0.25s;
+  }
+  .team-card:hover {
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
+  }
+  .team-avatar {
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--navy), var(--navy-light));
+    border: 2px solid var(--gold);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--gold);
+    flex-shrink: 0;
+  }
+  .team-role {
+    font-size: 0.68rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 0.2rem;
+  }
+  .team-name {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 0.2rem;
+  }
+  .team-email {
+    font-size: 0.78rem;
+    color: var(--muted);
+    font-family: 'DM Mono', monospace;
+    word-break: break-all;
+  }
+
+  /* ── LINKS BAND ── */
+  .links-band {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    background: var(--off-white);
+    border-radius: var(--radius);
+    padding: 1.25rem 1.5rem;
+    border: 1px solid rgba(0,0,0,0.06);
+  }
+  .link-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.55rem 1.1rem;
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 100px;
+    font-size: 0.82rem;
+    font-weight: 500;
+    color: var(--navy);
+    text-decoration: none;
+    transition: background 0.2s, border-color 0.2s, color 0.2s, box-shadow 0.2s;
+    box-shadow: var(--shadow-sm);
+  }
+  .link-pill:hover {
+    background: var(--navy);
+    border-color: var(--navy);
+    color: var(--gold);
+    box-shadow: var(--shadow-md);
+  }
+  .link-pill svg { flex-shrink: 0; }
+
+  /* ── SCHEDULE TABLE ── */
+  .schedule-wrapper {
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: var(--shadow-md);
+    border: 1px solid rgba(0,0,0,0.07);
+  }
+  .schedule-table-wrap {
+    overflow-x: auto;
+    max-height: 680px;
+    overflow-y: auto;
+  }
+  .schedule-table-wrap::-webkit-scrollbar { width: 6px; height: 6px; }
+  .schedule-table-wrap::-webkit-scrollbar-track { background: var(--off-white); }
+  .schedule-table-wrap::-webkit-scrollbar-thumb { background: rgba(15,27,45,0.2); border-radius: 3px; }
+
+  table.sched {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.88rem;
+    background: #fff;
+    min-width: 540px;
+  }
+  table.sched thead {
+    position: sticky;
+    top: 0;
+    z-index: 5;
+  }
+  table.sched thead tr {
+    background: var(--navy);
+  }
+  table.sched thead th {
+    padding: 0.95rem 1.25rem;
+    text-align: left;
+    font-size: 0.68rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--gold);
+    white-space: nowrap;
+    border-bottom: 2px solid rgba(207,181,59,0.3);
+  }
+  table.sched tbody tr {
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+    transition: background 0.15s;
+  }
+  table.sched tbody tr:hover {
+    background: rgba(207,181,59,0.05) !important;
+  }
+  table.sched tbody tr.row-snow {
+    background: var(--snow-bg);
+  }
+  table.sched tbody tr.row-break {
+    background: var(--break-bg);
+  }
+  table.sched tbody tr.row-exam {
+    background: var(--exam-bg);
+  }
+  table.sched tbody td {
+    padding: 0.75rem 1.25rem;
+    vertical-align: middle;
+    color: var(--text-secondary);
+  }
+  table.sched tbody td:first-child {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+  table.sched tbody td:nth-child(2) {
+    font-weight: 500;
+    color: var(--text-primary);
+  }
+  table.sched .row-snow td:nth-child(2) {
+    color: #3D6B8C;
+    font-style: italic;
+  }
+  table.sched .row-break td:nth-child(2) {
+    color: #2E7D32;
+    font-style: italic;
+  }
+  table.sched .row-exam td:nth-child(2) {
+    color: #7A5C00;
+    font-weight: 600;
+  }
+  .hw-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0.18rem 0.6rem;
+    background: var(--hw-accent);
+    border: 1px solid rgba(207,181,59,0.35);
+    border-radius: 100px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #7A5C00;
+    white-space: nowrap;
+  }
+  .quiz-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0.18rem 0.6rem;
+    background: rgba(99,102,241,0.1);
+    border: 1px solid rgba(99,102,241,0.25);
+    border-radius: 100px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #4338CA;
+    white-space: nowrap;
+  }
+  .proj-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0.18rem 0.6rem;
+    background: rgba(20,184,166,0.1);
+    border: 1px solid rgba(20,184,166,0.25);
+    border-radius: 100px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #0D7261;
+    white-space: nowrap;
+  }
+  .slides-link {
+    color: var(--navy);
+    font-weight: 500;
+    text-decoration: none;
+    font-size: 0.8rem;
+    border-bottom: 1px solid rgba(15,27,45,0.2);
+    transition: color 0.2s, border-color 0.2s;
+  }
+  .slides-link:hover {
+    color: var(--gold);
+    border-color: var(--gold);
+  }
+
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    padding: 0.85rem 1.25rem;
+    background: var(--off-white);
+    border-top: 1px solid rgba(0,0,0,0.06);
+  }
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.73rem;
+    color: var(--muted);
+  }
+  .legend-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+    flex-shrink: 0;
+  }
+
+  /* ── ASSIGNMENTS TABLE ── */
+  table.assign {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.88rem;
+    background: #fff;
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: var(--shadow-md);
+    border: 1px solid rgba(0,0,0,0.07);
+  }
+  table.assign thead tr {
+    background: var(--navy);
+  }
+  table.assign thead th {
+    padding: 0.95rem 1.25rem;
+    text-align: left;
+    font-size: 0.68rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--gold);
+  }
+  table.assign tbody tr {
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+    transition: background 0.15s;
+  }
+  table.assign tbody tr:hover {
+    background: var(--gold-dim2);
+  }
+  table.assign tbody td {
+    padding: 1rem 1.25rem;
+    color: var(--text-secondary);
+    vertical-align: middle;
+  }
+  table.assign tbody td:first-child {
+    font-weight: 500;
+    color: var(--text-primary);
+  }
+  table.assign a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.35rem 0.85rem;
+    background: var(--gold-dim);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--navy);
+    text-decoration: none;
+    transition: background 0.2s, border-color 0.2s;
+  }
+  table.assign a:hover {
+    background: var(--gold);
+    border-color: var(--gold);
+    color: var(--navy);
+  }
+
+  /* ── GRADING / RESOURCES ── */
+  .grading-card {
+    background: #fff;
+    border: 1px solid rgba(0,0,0,0.07);
+    border-radius: var(--radius);
+    padding: 2rem;
+    box-shadow: var(--shadow-sm);
+    font-size: 0.92rem;
+    line-height: 1.8;
+    color: var(--text-secondary);
+    margin-bottom: 1.5rem;
+  }
+  .grading-card a {
+    color: var(--navy);
+    font-weight: 700;
+    text-decoration: none;
+    padding: 0.3rem 0.9rem;
+    background: var(--gold-dim);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    font-size: 0.85rem;
+    transition: background 0.2s;
+  }
+  .grading-card a:hover {
+    background: var(--gold);
+    color: var(--navy);
+  }
+
+  /* ── FAQ ── */
+  .faq-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.85rem;
+  }
+  .faq-item {
+    background: #fff;
+    border: 1px solid rgba(0,0,0,0.07);
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+  }
+  .faq-question {
+    width: 100%;
+    text-align: left;
+    padding: 1.1rem 1.5rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    transition: color 0.2s;
+  }
+  .faq-question:hover { color: var(--navy); }
+  .faq-q-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.7rem;
+    font-weight: 500;
+    color: var(--gold);
+    background: var(--gold-dim);
+    border-radius: 4px;
+    padding: 0.1rem 0.4rem;
+    flex-shrink: 0;
+  }
+  .faq-q-text { flex: 1; }
+  .faq-chevron {
+    flex-shrink: 0;
+    width: 18px;
+    height: 18px;
+    transition: transform 0.3s;
+  }
+  .faq-item.open .faq-chevron { transform: rotate(180deg); }
+  .faq-answer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.35s ease, padding 0.35s ease;
+  }
+  .faq-item.open .faq-answer {
+    max-height: 200px;
+  }
+  .faq-answer-inner {
+    padding: 0 1.5rem 1.1rem;
+    font-size: 0.87rem;
+    color: var(--text-secondary);
+    line-height: 1.7;
+    border-top: 1px solid rgba(0,0,0,0.05);
+    padding-top: 0.85rem;
+  }
+
+  /* ── GPU / COMPUTE ── */
+  .compute-card {
+    background: linear-gradient(135deg, var(--navy) 0%, #1a2e4a 100%);
+    border-radius: var(--radius);
+    padding: 2rem;
+    color: rgba(255,255,255,0.8);
+    font-size: 0.92rem;
+    line-height: 1.8;
+    display: flex;
+    gap: 1.5rem;
+    align-items: flex-start;
+  }
+  .compute-icon {
+    font-size: 2.5rem;
+    flex-shrink: 0;
+    margin-top: 0.1rem;
+  }
+
+  /* ── REFERENCES ── */
+  .ref-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 0.5rem;
+  }
+  .ref-item {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.6rem 0.9rem;
+    background: #fff;
+    border: 1px solid rgba(0,0,0,0.06);
+    border-radius: var(--radius-sm);
+    font-size: 0.78rem;
+    color: var(--muted);
+    font-family: 'DM Mono', monospace;
+    transition: background 0.2s, border-color 0.2s;
+    text-decoration: none;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .ref-item:hover {
+    background: var(--off-white);
+    border-color: var(--border);
+    color: var(--navy);
+  }
+  .ref-item::before {
+    content: '↗';
+    color: var(--gold);
+    flex-shrink: 0;
+    font-size: 0.7rem;
+  }
+  .ref-note {
+    font-size: 0.8rem;
+    color: var(--muted);
+    margin-bottom: 1rem;
+    font-style: italic;
+  }
+
+  /* ── FOOTER ── */
+  .site-footer {
+    background: var(--navy);
+    color: rgba(255,255,255,0.4);
+    text-align: center;
+    padding: 2rem;
+    font-size: 0.78rem;
+    border-top: 1px solid rgba(207,181,59,0.15);
+  }
+  .site-footer a {
+    color: var(--gold);
+    text-decoration: none;
+  }
+
+  /* ── BACK TO TOP ── */
+  .back-top {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    z-index: 999;
+    width: 44px;
+    height: 44px;
+    background: var(--navy);
+    border: 1.5px solid rgba(207,181,59,0.35);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--gold);
+    cursor: pointer;
+    box-shadow: var(--shadow-lg);
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 0.3s, transform 0.3s, background 0.2s;
+    text-decoration: none;
+  }
+  .back-top.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  .back-top:hover {
+    background: var(--gold);
+    color: var(--navy);
+    border-color: var(--gold);
+  }
+
+  /* ── REVEAL ANIMATION ── */
+  .reveal {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+  }
+  .reveal.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 768px) {
+    .navbar-nav { display: none; }
+    .hero-title { font-size: 2.4rem; }
+    .info-grid { grid-template-columns: 1fr; }
+    .team-grid { grid-template-columns: 1fr; }
+    .ref-grid { grid-template-columns: 1fr; }
+    .compute-card { flex-direction: column; gap: 0.75rem; }
+    .site-main { padding: 0 1rem 4rem; }
+    .back-top { bottom: 1.25rem; right: 1.25rem; }
+  }
+</style>
+</head>
+<body>
+
+<!-- NAVBAR -->
+<nav class="navbar" id="navbar">
+  <div class="navbar-inner">
+    <a class="navbar-brand" href="#">
+      <svg class="navbar-star" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <polygon points="16,2 19.5,12 30,12 21.5,18.5 24.5,29 16,23 7.5,29 10.5,18.5 2,12 12.5,12" fill="none" stroke="#CFB53B" stroke-width="1.5" stroke-linejoin="round"/>
+      </svg>
+      <div class="navbar-title">
+        CS&ECE Deep Learning
+        <span>Vanderbilt University · Spring 2026</span>
+      </div>
+    </a>
+    <ul class="navbar-nav">
+      <li><a href="#info">Class Info</a></li>
+      <li><a href="#schedule">Schedule</a></li>
+      <li><a href="#assignments">Assignments</a></li>
+      <li><a href="#grading">Grading</a></li>
+      <li><a href="#resources">Resources</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero" id="top">
+  <div class="hero-bg-gradient"></div>
+  <canvas class="hero-canvas" id="heroCanvas"></canvas>
+  <div class="hero-content">
+    <div class="hero-eyebrow">Vanderbilt University · School of Engineering</div>
+    <h1 class="hero-title">
+      CS &amp; ECE<br>
+      <span class="hero-title-accent">Deep Learning</span>
+    </h1>
+    <p class="hero-subtitle">Spring 2026</p>
+    <div class="hero-badges">
+      <span class="badge"><span class="badge-icon">📅</span> Tuesday &amp; Thursday</span>
+      <span class="badge"><span class="badge-icon">🕑</span> 2:45 PM – 4:00 PM</span>
+      <span class="badge"><span class="badge-icon">📍</span> Featheringill Hall 132</span>
+      <span class="badge"><span class="badge-icon">👤</span> Yuankai Huo</span>
+    </div>
+    <div class="hero-divider"></div>
+  </div>
+  <div class="hero-scroll-hint">
+    <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M7 2v10M3 8l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    Scroll
+  </div>
+</section>
+
+<!-- MAIN -->
+<main class="site-main">
+
+  <!-- CLASS INFO -->
+  <section class="section reveal" id="info">
+    <div class="section-header">
+      <div>
+        <div class="section-label">Section I</div>
+        <h2 class="section-title">Class Information</h2>
+      </div>
+      <div class="section-rule"></div>
+    </div>
+
+    <div class="info-grid">
+      <div class="info-card">
+        <span class="info-card-icon">📍</span>
+        <div class="info-card-title">Location</div>
+        <div class="info-card-body">
+          <strong>Classroom:</strong> Featheringill Hall 132<br>
+          <strong>TA Office Hours:</strong> Featheringill Hall 333
+        </div>
+      </div>
+      <div class="info-card">
+        <span class="info-card-icon">🕑</span>
+        <div class="info-card-title">TA Office Hours</div>
+        <div class="info-card-body">
+          <strong>Mon</strong> 2:00–4:00 PM, Yanfan Zhu<br>
+          <a href="https://us05web.zoom.us/j/4120299150?pwd=Vxqa5BUVQ9wG0L5qU9LX3ogLSJF0Y2.1" target="_blank">↗ Zoom Link</a><br><br>
+          <strong>Wed</strong> 2:00–4:00 PM, Yanfan Zhu<br>
+          <a href="https://us05web.zoom.us/j/4120299150?pwd=Vxqa5BUVQ9wG0L5qU9LX3ogLSJF0Y2.1" target="_blank">↗ Zoom Link</a>
+        </div>
+      </div>
+      <div class="info-card">
+        <span class="info-card-icon">🎓</span>
+        <div class="info-card-title">Faculty Office Hour</div>
+        <div class="info-card-body">
+          <strong>Friday</strong> 1:00 PM – 2:00 PM<br>
+          FGH 376 (walk-in) or Zoom<br>
+          <em style="font-size:0.8rem;color:var(--muted-light)">(make appointment for Zoom)</em>
+        </div>
+      </div>
+      <div class="info-card">
+        <span class="info-card-icon">⏱</span>
+        <div class="info-card-title">Class Schedule</div>
+        <div class="info-card-body">
+          <strong>Tuesday &amp; Thursday</strong><br>
+          2:45 PM – 4:00 PM<br>
+          Featheringill Hall 132
+        </div>
+      </div>
+    </div>
+
+    <div class="desc-card reveal">
+      Provides students with an understanding of conceptual and practical aspects of models and algorithms used in deep learning. Key topics covered include: <strong>basic mathematical tools</strong> and machine learning concepts; <strong>modern practical deep feedforward, convolutional, and recurrent networks</strong>; <strong>regularization</strong> for deep learning; <strong>optimization</strong> for learning deep models; <strong>practical design methods</strong>.
+    </div>
+
+    <div class="section-header" style="margin-top:2rem">
+      <div>
+        <div class="section-label">Section III</div>
+        <h2 class="section-title">Teaching Team</h2>
+      </div>
+      <div class="section-rule"></div>
+    </div>
+    <div class="team-grid reveal">
+      <div class="team-card">
+        <div class="team-avatar">YH</div>
+        <div>
+          <div class="team-role">Instructor</div>
+          <div class="team-name">Yuankai Huo</div>
+          <div class="team-email">yuankai.huo@vanderbilt.edu</div>
+        </div>
+      </div>
+      <div class="team-card">
+        <div class="team-avatar">YZ</div>
+        <div>
+          <div class="team-role">Teaching Assistant</div>
+          <div class="team-name">Yanfan Zhu</div>
+          <div class="team-email">yanfan.zhu@vanderbilt.edu</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-header" style="margin-top:2rem">
+      <div>
+        <div class="section-label">Section V</div>
+        <h2 class="section-title">Useful Links</h2>
+      </div>
+      <div class="section-rule"></div>
+    </div>
+    <div class="links-band reveal">
+      <a class="link-pill" href="https://hrlblab.github.io/DeepLearning.html" target="_blank">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><circle cx="7" cy="7" r="5.5" stroke="currentColor" stroke-width="1.3"/><path d="M7 1.5S5 4 5 7s2 5.5 2 5.5M7 1.5S9 4 9 7s-2 5.5-2 5.5M1.5 7h11" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/></svg>
+        Course Website
+      </a>
+      <a class="link-pill" href="https://www.vanderbilt.edu/brightspace" target="_blank">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><rect x="2" y="2" width="10" height="10" rx="2" stroke="currentColor" stroke-width="1.3"/><path d="M5 7h4M7 5v4" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/></svg>
+        Brightspace (Submissions)
+      </a>
+    </div>
+  </section>
+
+  <!-- SCHEDULE -->
+  <section class="section reveal" id="schedule">
+    <div class="section-header">
+      <div>
+        <div class="section-label">Section IV</div>
+        <h2 class="section-title">Course Schedule</h2>
+      </div>
+      <div class="section-rule"></div>
+    </div>
+    <div class="schedule-wrapper">
+      <div class="schedule-table-wrap">
+        <table class="sched">
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>Topic</th>
+              <th>Comments</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>Jan 06</td><td>Overview</td><td><a class="slides-link" href="https://drive.google.com/drive/folders/1nM5i8QFiyfKN2J31Tua8Z3cXQ8iu6YDS?usp=sharing" target="_blank">↗ All Slides</a></td></tr>
+            <tr><td>Jan 08</td><td>Introduction of Deep Learning</td><td><a class="slides-link" href="https://drive.google.com/drive/folders/1eQbjvuB57H5ASUnuTSwqIXglWATUiuOR?usp=sharing" target="_blank">↗ All Homework</a></td></tr>
+            <tr><td>Jan 13</td><td>From Linear Regression to Deep Learning</td><td><span class="hw-badge">HW0 Due</span></td></tr>
+            <tr><td>Jan 15</td><td>From Logistic Regression to Deep Learning</td><td></td></tr>
+            <tr><td>Jan 20</td><td>Neural Network</td><td></td></tr>
+            <tr><td>Jan 22</td><td>Neural Network Optimization</td><td></td></tr>
+            <tr class="row-snow"><td>Jan 27</td><td>❄️ Snow Storm 2026</td><td><span class="hw-badge">HW1 Due</span></td></tr>
+            <tr class="row-snow"><td>Jan 29</td><td>❄️ Snow Storm 2026</td><td></td></tr>
+            <tr><td>Feb 03</td><td>Machine Learning Basics</td><td></td></tr>
+            <tr><td>Feb 05</td><td>Final Project Proposal 1</td><td><a class="slides-link" href="https://docs.google.com/spreadsheets/d/1iuX7eMzmUDjMjg3X84p3Y5GoeYnlML9fFma2RRVrPZQ/edit?usp=sharing" target="_blank">↗ Mini Project Team &amp; Proposal</a></td></tr>
+            <tr><td>Feb 10</td><td>Deep Neural Network</td><td><span class="hw-badge">HW2 Due</span></td></tr>
+            <tr class="row-exam"><td>Feb 12</td><td>Final Project Proposal 2</td><td><span class="quiz-badge">Quiz 1</span></td></tr>
+            <tr><td>Feb 17</td><td>Optimization</td><td></td></tr>
+            <tr><td>Feb 19</td><td>Adaptive Learning Rate</td><td></td></tr>
+            <tr class="row-exam"><td>Feb 24</td><td>Mid-term Exam (in-class)</td><td><span class="hw-badge">Take-home Due</span></td></tr>
+            <tr><td>Feb 26</td><td>PyTorch and AutoGrad</td><td></td></tr>
+            <tr><td>Mar 03</td><td>Convolution</td><td></td></tr>
+            <tr><td>Mar 05</td><td>Convolutional Neural Network</td><td><span class="hw-badge">HW3 Due</span></td></tr>
+            <tr class="row-break"><td>Mar 10</td><td>🌿 Spring Break</td><td></td></tr>
+            <tr class="row-break"><td>Mar 12</td><td>🌿 Spring Break</td><td></td></tr>
+            <tr><td>Mar 17</td><td>Computer Vision</td><td><span class="proj-badge">Mini Project Proposal Due</span></td></tr>
+            <tr class="row-exam"><td>Mar 19</td><td>NLP</td><td><span class="quiz-badge">Quiz 2</span></td></tr>
+            <tr><td>Mar 24</td><td>Self-Attention</td><td><span class="hw-badge">HW4 Due</span></td></tr>
+            <tr><td>Mar 26</td><td>Transformer</td><td></td></tr>
+            <tr><td>Mar 31</td><td>Transformer 2</td><td></td></tr>
+            <tr><td>Apr 02</td><td>Advanced Topics</td><td></td></tr>
+            <tr><td>Apr 07</td><td>Advanced Topics</td><td><span class="hw-badge">HW5 Due</span></td></tr>
+            <tr><td>Apr 09</td><td>Advanced Topics</td><td><a class="slides-link" href="https://docs.google.com/spreadsheets/d/1TsGXy-ir02a68omehES6okAVko3YLRRI/edit?usp=sharing&ouid=115028073207757661230&rtpof=true&sd=true" target="_blank">↗ Presentation Format</a></td></tr>
+            <tr><td>Apr 14</td><td>Advanced Topics</td><td></td></tr>
+            <tr class="row-exam"><td>Apr 16</td><td>Advanced Topics</td><td><span class="quiz-badge">Quiz 3</span></td></tr>
+            <tr><td>Apr 21</td><td>Summary</td><td></td></tr>
+            <tr><td>Apr 23</td><td>(No Class)</td><td><span class="hw-badge">HW6 Due</span> &nbsp; <span class="hw-badge" style="background:rgba(207,181,59,0.07);color:#9A7700;">HW7 Optional Due</span></td></tr>
+            <tr class="row-exam"><td>Apr 28</td><td>Final Presentation Poster/Report Due (No Class)</td><td><span class="proj-badge">Final Project Due</span></td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="legend">
+        <div class="legend-item"><div class="legend-dot" style="background:rgba(186,210,235,0.6);border:1px solid rgba(186,210,235,1)"></div>Snow/Weather Event</div>
+        <div class="legend-item"><div class="legend-dot" style="background:rgba(134,195,138,0.5);border:1px solid rgba(134,195,138,1)"></div>Break</div>
+        <div class="legend-item"><div class="legend-dot" style="background:rgba(207,181,59,0.25);border:1px solid rgba(207,181,59,0.5)"></div>Exam/Quiz</div>
+        <div class="legend-item"><div class="legend-dot" style="background:var(--hw-accent);border:1px solid rgba(207,181,59,0.4)"></div>Homework Due</div>
+        <div class="legend-item"><div class="legend-dot" style="background:rgba(99,102,241,0.15);border:1px solid rgba(99,102,241,0.3)"></div>Quiz</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ASSIGNMENTS -->
+  <section class="section reveal" id="assignments">
+    <div class="section-header">
+      <div>
+        <div class="section-label">Section V</div>
+        <h2 class="section-title">Assignments</h2>
+      </div>
+      <div class="section-rule"></div>
+    </div>
+    <table class="assign">
+      <thead>
+        <tr>
+          <th>Assignment</th>
+          <th>Download</th>
+          <th>Due Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Mini Project Proposal</td>
+          <td><a href="https://docs.google.com/presentation/d/1x6uIdi8SzxLS_YViMHpfsDI8fEHbS-2H/edit?usp=sharing&ouid=115028073207757661230&rtpof=true&sd=true" target="_blank">↗ Example</a></td>
+          <td style="color:var(--muted-light);font-style:italic">TBA</td>
+        </tr>
+        <tr>
+          <td>Mini Project Presentation</td>
+          <td><a href="https://docs.google.com/presentation/d/11TfGBnBGyNI8xCBDrc8bX50AnZ8J_nnA/edit?usp=sharing&ouid=115028073207757661230&rtpof=true&sd=true" target="_blank">↗ Example</a></td>
+          <td style="color:var(--muted-light);font-style:italic">TBA</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <!-- GRADING -->
+  <section class="section reveal" id="grading">
+    <div class="section-header">
+      <div>
+        <div class="section-label">Section VI</div>
+        <h2 class="section-title">Grading, Exams &amp; Final Project</h2>
+      </div>
+      <div class="section-rule"></div>
+    </div>
+    <div class="grading-card">
+      Full grading breakdown, homework policies, mid-term exam details, and final project expectations are documented in the course syllabus.
+      <br><br>
+      <a href="https://docs.google.com/document/d/1_PENiICUzAXnf5XbeggnscTjaIJMUJ_F/edit?usp=sharing&ouid=115028073207757661230&rtpof=true&sd=true" target="_blank">↗ View Full Details</a>
+    </div>
+
+    <div class="section-header" style="margin-top:2rem">
+      <div>
+        <div class="section-label">Section VII</div>
+        <h2 class="section-title">Computational Resources</h2>
+      </div>
+      <div class="section-rule"></div>
+    </div>
+    <div class="compute-card reveal">
+      <div class="compute-icon">⚡</div>
+      <div style="color:rgba(255,255,255,0.75);font-size:0.92rem;line-height:1.8">
+        <strong style="color:#fff">GPU computing is required</strong> for this class. All homework must be completed and submitted using <strong style="color:var(--gold)">Google Colab</strong>. For the final project, you may use Colab or your own / lab GPU — whichever provides the most convenient environment for writing and testing code with a GUI.
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="section reveal" id="faq">
+    <div class="section-header">
+      <div>
+        <div class="section-label">Section VIII</div>
+        <h2 class="section-title">Frequently Asked Questions</h2>
+      </div>
+      <div class="section-rule"></div>
+    </div>
+    <div class="faq-list">
+      <div class="faq-item">
+        <button class="faq-question" onclick="toggleFaq(this)">
+          <span class="faq-q-num">Q1</span>
+          <span class="faq-q-text">The class is full. Can I still get in?</span>
+          <svg class="faq-chevron" viewBox="0 0 18 18" fill="none"><path d="M4 6.5l5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <div class="faq-answer"><div class="faq-answer-inner">It is unlikely except if other students drop the course during the first week. Monitor enrollment closely during the add/drop period.</div></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-question" onclick="toggleFaq(this)">
+          <span class="faq-q-num">Q2</span>
+          <span class="faq-q-text">What are the prerequisites?</span>
+          <svg class="faq-chevron" viewBox="0 0 18 18" fill="none"><path d="M4 6.5l5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <div class="faq-answer"><div class="faq-answer-inner">Linear algebra, programming in Python, and an introduction to machine learning are required prerequisites.</div></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-question" onclick="toggleFaq(this)">
+          <span class="faq-q-num">Q3</span>
+          <span class="faq-q-text">Can I sit in class without registering?</span>
+          <svg class="faq-chevron" viewBox="0 0 18 18" fill="none"><path d="M4 6.5l5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <div class="faq-answer"><div class="faq-answer-inner">Yes, after obtaining the instructor's approval. Another option is to register as an auditor (only $50).</div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REFERENCES -->
+  <section class="section reveal" id="resources">
+    <div class="section-header">
+      <div>
+        <div class="section-label">Section IX</div>
+        <h2 class="section-title">References &amp; Resources</h2>
+      </div>
+      <div class="section-rule"></div>
+    </div>
+    <p class="ref-note">We use images and content in slides from the following excellent resources. Many thanks to the authors for their great work.</p>
+    <div class="ref-grid">
+      <a class="ref-item" href="https://speech.ee.ntu.edu.tw/~tlkagk/courses.html" target="_blank">speech.ee.ntu.edu.tw/~tlkagk/courses.html</a>
+      <a class="ref-item" href="https://speech.ee.ntu.edu.tw/~hylee/index.php" target="_blank">speech.ee.ntu.edu.tw/~hylee</a>
+      <a class="ref-item" href="http://cs231n.stanford.edu/" target="_blank">cs231n.stanford.edu</a>
+      <a class="ref-item" href="http://deeplearning.cs.cmu.edu/" target="_blank">deeplearning.cs.cmu.edu</a>
+      <a class="ref-item" href="https://www.deeplearningbook.org/lecture_slides.html" target="_blank">deeplearningbook.org</a>
+      <a class="ref-item" href="https://www.cs.princeton.edu/courses/archive/spring16/cos495/" target="_blank">cs.princeton.edu — COS495</a>
+      <a class="ref-item" href="http://ttic.uchicago.edu/~shubhendu/Pages/CMSC35246.html" target="_blank">ttic.uchicago.edu — CMSC35246</a>
+      <a class="ref-item" href="https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php" target="_blank">NTU ML 2021 Spring</a>
+      <a class="ref-item" href="https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php" target="_blank">NTU ML 2022 Spring</a>
+      <a class="ref-item" href="https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php" target="_blank">NTU ML 2023 Spring</a>
+      <a class="ref-item" href="https://www.cc.gatech.edu/classes/AY2018/cs7643_fall" target="_blank">Georgia Tech CS7643</a>
+      <a class="ref-item" href="http://introtodeeplearning.com/" target="_blank">introtodeeplearning.com</a>
+    </div>
+  </section>
+
+</main>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  CS&ECE Deep Learning — Spring 2026 &nbsp;·&nbsp; Vanderbilt University &nbsp;·&nbsp;
+  <a href="https://hrlblab.github.io/DeepLearning.html" target="_blank">Course Website</a>
+</footer>
+
+<!-- BACK TO TOP -->
+<a class="back-top" id="backTop" href="#top" aria-label="Back to top">
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8 12V4M4 8l4-4 4 4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+</a>
+
+<script>
+  /* ── NAVBAR SCROLL ── */
+  const navbar = document.getElementById('navbar');
+  const backTop = document.getElementById('backTop');
+  window.addEventListener('scroll', () => {
+    const y = window.scrollY;
+    navbar.classList.toggle('scrolled', y > 20);
+    backTop.classList.toggle('visible', y > 400);
+  }, { passive: true });
+
+  /* ── SCROLL SPY ── */
+  const navLinks = document.querySelectorAll('.navbar-nav a');
+  const sections = document.querySelectorAll('section[id]');
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        const id = e.target.id;
+        navLinks.forEach(a => {
+          a.classList.toggle('active', a.getAttribute('href') === '#' + id);
+        });
+      }
+    });
+  }, { rootMargin: '-40% 0px -55% 0px' });
+  sections.forEach(s => observer.observe(s));
+
+  /* ── REVEAL ON SCROLL ── */
+  const revealObserver = new IntersectionObserver((entries) => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        e.target.classList.add('visible');
+        revealObserver.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.08 });
+  document.querySelectorAll('.reveal').forEach(el => revealObserver.observe(el));
+
+  /* ── FAQ ACCORDION ── */
+  function toggleFaq(btn) {
+    const item = btn.closest('.faq-item');
+    const isOpen = item.classList.contains('open');
+    document.querySelectorAll('.faq-item.open').forEach(i => i.classList.remove('open'));
+    if (!isOpen) item.classList.add('open');
+  }
+
+  /* ── NEURAL NETWORK CANVAS ── */
+  (function() {
+    const canvas = document.getElementById('heroCanvas');
+    const ctx = canvas.getContext('2d');
+    let nodes = [], edges = [], W, H, raf;
+
+    function resize() {
+      W = canvas.width = canvas.offsetWidth;
+      H = canvas.height = canvas.offsetHeight;
+    }
+
+    function initNodes() {
+      nodes = [];
+      const count = Math.floor((W * H) / 18000);
+      for (let i = 0; i < count; i++) {
+        nodes.push({
+          x: Math.random() * W,
+          y: Math.random() * H,
+          vx: (Math.random() - 0.5) * 0.28,
+          vy: (Math.random() - 0.5) * 0.28,
+          r: Math.random() * 2 + 1.2
+        });
+      }
+    }
+
+    function draw() {
+      ctx.clearRect(0, 0, W, H);
+      const maxDist = 160;
+      for (let i = 0; i < nodes.length; i++) {
+        for (let j = i + 1; j < nodes.length; j++) {
+          const dx = nodes[i].x - nodes[j].x;
+          const dy = nodes[i].y - nodes[j].y;
+          const dist = Math.sqrt(dx*dx + dy*dy);
+          if (dist < maxDist) {
+            const alpha = (1 - dist/maxDist) * 0.25;
+            ctx.beginPath();
+            ctx.moveTo(nodes[i].x, nodes[i].y);
+            ctx.lineTo(nodes[j].x, nodes[j].y);
+            ctx.strokeStyle = `rgba(207,181,59,${alpha})`;
+            ctx.lineWidth = 0.7;
+            ctx.stroke();
+          }
+        }
+      }
+      nodes.forEach(n => {
+        ctx.beginPath();
+        ctx.arc(n.x, n.y, n.r, 0, Math.PI * 2);
+        ctx.fillStyle = 'rgba(207,181,59,0.55)';
+        ctx.fill();
+        n.x += n.vx;
+        n.y += n.vy;
+        if (n.x < 0 || n.x > W) n.vx *= -1;
+        if (n.y < 0 || n.y > H) n.vy *= -1;
+      });
+      raf = requestAnimationFrame(draw);
+    }
+
+    resize();
+    initNodes();
+    draw();
+
+    let resizeTimer;
+    window.addEventListener('resize', () => {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(() => {
+        cancelAnimationFrame(raf);
+        resize();
+        initNodes();
+        draw();
+      }, 200);
+    });
+  })();
+</script>
+</body>
+</html>
