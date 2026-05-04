@@ -1,173 +1,159 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2022 on HRLB Lab</title>
+    <title>2022 | HRLB Lab</title>
     <link>https://hrlblab.github.io/tag/2022/</link>
-    <description>Recent content in 2022 on HRLB Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>hrlblab@gmail.com</copyright>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hrlblab.github.io/tag/2022/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://hrlblab.github.io/tag/2022/index.xml" rel="self" type="application/rss+xml" />
+    <description>2022</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <title>2022</title>
+      <link>https://hrlblab.github.io/tag/2022/</link>
+    </image>
+    
     <item>
       <title>CircleSnake: Instance Segmentation with Circle Representation</title>
       <link>https://hrlblab.github.io/project/2022_ethan_mlmi/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://hrlblab.github.io/project/2022_ethan_mlmi/</guid>
-      <description>Ethan H. Nguyen, Haichun Yang, Zuhayr Asad, Ruining Deng, Agnes B. Fogo, &lt;strong&gt;Yuankai Huo&lt;/strong&gt; &lt;br&gt; &lt;em&gt;&lt;strong&gt;MLMI&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;(2022)&lt;/strong&gt;</description>
+      <description></description>
     </item>
     
     <item>
       <title>Compound Figure Separation of Biomedical Images: Mining Large Datasets for Self-supervised Learning</title>
       <link>https://hrlblab.github.io/project/2022_tianyuan_jmlbi/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://hrlblab.github.io/project/2022_tianyuan_jmlbi/</guid>
-      <description>Tianyuan Yao, Yuzhe Lu, Jun Long, Aadarsh Jha, Zheyu Zhu, Zuhayr Asad, Haichun Yang, Agnes B. Fogo, &lt;strong&gt;Yuankai Huo&lt;/strong&gt; &lt;br&gt; &lt;em&gt;&lt;strong&gt;Journal of Machine Learning for Biomedical Imaging&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;(2022)&lt;/strong&gt;</description>
+      <description></description>
     </item>
     
     <item>
       <title>Cross-scale Attention Guided Multi-instance Learning for Crohns Disease Diagnosis with Pathological Images</title>
       <link>https://hrlblab.github.io/project/2022_ruining_mmmi/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://hrlblab.github.io/project/2022_ruining_mmmi/</guid>
-      <description>Ruining Deng, Can Cui, Lucas W. Remedios, Shunxing Bao, R. Michael Womick, Sophie Chiron, Jia Li, Joseph T. Roland, Ken S. Lau, Qi Liu, Keith T. Wilson, Yaohong Wang, Lori A. Coburn, Bennett A. Landman, &lt;strong&gt;Yuankai Huo&lt;/strong&gt; &lt;br&gt; &lt;em&gt;&lt;strong&gt;MMMI&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;(2022)&lt;/strong&gt;</description>
+      <description></description>
     </item>
     
     <item>
       <title>Dense Multi-object 3D Glomerular Reconstruction and Quantification on 2D Serial Section Whole Slide Image</title>
       <link>https://hrlblab.github.io/project/2022_ruining_spie/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://hrlblab.github.io/project/2022_ruining_spie/</guid>
-      <description>Ruining Deng, Haichun Yang, Zuhayr Asad, Zheyu Zhu, Shiru Wang, Lee E. Wheless, Agnes B. Fogo, &lt;strong&gt;Yuankai Huo&lt;/strong&gt; &lt;br&gt; &lt;em&gt;&lt;strong&gt;SPIE Medical Imaging&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;(2022)&lt;/strong&gt;</description>
+      <description></description>
     </item>
     
     <item>
       <title>Eosinophilic Esophagitis Multi-label Feature Recognition on Whole Slide Imaging using Transfer Learning</title>
       <link>https://hrlblab.github.io/project/2022_yuxuan_spie/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://hrlblab.github.io/project/2022_yuxuan_spie/</guid>
-      <description>Yuxuan Shi, Quan Liu, Jiachen Xu, Zuhayr Asad, Can Cui, Hernán Correa, Yash Choksi, Girish Hiremath, &lt;strong&gt;Yuankai Huo&lt;/strong&gt; &lt;br&gt; &lt;em&gt;&lt;strong&gt;SPIE Medical Imaging&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;(2022)&lt;/strong&gt;</description>
+      <description></description>
     </item>
     
     <item>
       <title>Evaluating Transformer-based Semantic Segmentation Networks for Pathological Image Segmentation</title>
       <link>https://hrlblab.github.io/project/2022_cam_spie/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://hrlblab.github.io/project/2022_cam_spie/</guid>
-      <description>Cam Nguyen, Zuhayr Asad, Ruining Deng, &lt;strong&gt;Yuankai Huo&lt;/strong&gt; &lt;br&gt; &lt;em&gt;&lt;strong&gt;SPIE Medical Imaging&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;(2022)&lt;/strong&gt;</description>
+      <description></description>
     </item>
     
     <item>
       <title>Glo-In-One: Holistic Glomerular Detection, Segmentation, and Lesion Characterization with Large-scale Web Image Mining</title>
       <link>https://hrlblab.github.io/project/2022_tianyuan_jmi/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://hrlblab.github.io/project/2022_tianyuan_jmi/</guid>
-      <description>Tianyuan Yao, Yuzhe Lu, Jun Long, Aadarsh Jha, Zheyu Zhu, Zuhayr Asad, Haichun Yang, Agnes B. Fogo, &lt;strong&gt;Yuankai Huo&lt;/strong&gt; &lt;br&gt; &lt;em&gt;&lt;strong&gt;Journal of Medical Imaging&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;(2022)&lt;/strong&gt;</description>
+      <description></description>
     </item>
     
     <item>
       <title>Holistic Fine-grained GGS Characterization: From Detection to Unbalanced Classification</title>
       <link>https://hrlblab.github.io/project/2022_yuzhe_jmi/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://hrlblab.github.io/project/2022_yuzhe_jmi/</guid>
-      <description>Yuzhe Lu, Haichun Yang, Zuhayr Asad, Zheyu Zhu, Tianyuan Yao, Jiachen Xu, Agnes B. Fogo, &lt;strong&gt;Yuankai Huo&lt;/strong&gt; &lt;br&gt; &lt;em&gt;&lt;strong&gt;Journal of Medical Imaging&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;(2022)&lt;/strong&gt;</description>
+      <description></description>
     </item>
     
     <item>
       <title>Inpainting Missing Tissue in Multiplexed Immunofluorescence Imaging</title>
       <link>https://hrlblab.github.io/project/2022_shunxing_spie/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://hrlblab.github.io/project/2022_shunxing_spie/</guid>
-      <description>Shunxing Bao, Yucheng Tang, Ho Hin Lee, Riqiang Gao, Qi Yang, Xin Yu, Sophie Chiron, Lori A. Coburn, Keith T. Wilson, Joseph T. Roland, Bennett A. Landman, &lt;strong&gt;Yuankai Huo&lt;/strong&gt; &lt;br&gt; &lt;em&gt;&lt;strong&gt;SPIE Medical Imaging&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;(2022)&lt;/strong&gt;</description>
+      <description></description>
     </item>
     
     <item>
       <title>Integrate Memory Efficiency Methods for Self-supervised Learning on Pathological Image Analysis</title>
       <link>https://hrlblab.github.io/project/2022_quan_spie/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://hrlblab.github.io/project/2022_quan_spie/</guid>
-      <description>Quan Liu, Bryan A. Millis, Zuhayr Asad, Can Cui, William F. Dean, Isabelle T. Smith, Christopher Madden, Joseph T. Roland, Jeffrey P. Zwerner, Shilin Zhao, Lee E. Wheless, &lt;strong&gt;Yuankai Huo&lt;/strong&gt; &lt;br&gt; &lt;em&gt;&lt;strong&gt;SPIE Medical Imaging&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;(2022)&lt;/strong&gt;</description>
+      <description></description>
     </item>
     
     <item>
       <title>Large-Scale Patch-Wise Pathological Image Feature Dataset with a Hardware-agnostic Feature Extraction Tool</title>
       <link>https://hrlblab.github.io/project/2022_zheyu_miua/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://hrlblab.github.io/project/2022_zheyu_miua/</guid>
-      <description>Zheyu Zhu, Ruining Deng, Quan Liu, Zuhayr Asad, Can Cui, Tianyuan Yao, &lt;strong&gt;Yuankai Huo&lt;/strong&gt; &lt;br&gt; &lt;em&gt;&lt;strong&gt;MIUA&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;(2022)&lt;/strong&gt;</description>
+      <description></description>
     </item>
     
     <item>
       <title>Leverage Supervised and Self-supervised Pretrain Models for Pathological Survival Analysis via a Simple and Low-cost Joint Representation Tuning</title>
       <link>https://hrlblab.github.io/project/2022_quan_remia/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://hrlblab.github.io/project/2022_quan_remia/</guid>
-      <description>Quan Liu, Can Cui, Ruining Deng, Zuhayr Asad, Tianyuan Yao, Zheyu Zhu, &lt;strong&gt;Yuankai Huo&lt;/strong&gt; &lt;br&gt; &lt;em&gt;&lt;strong&gt;REMIA&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;(2022)&lt;/strong&gt;</description>
+      <description></description>
     </item>
     
     <item>
       <title>MAg: a Simple Learning-based Patient-level Aggregation Method for Detecting Microsatellite Instability from Whole-slide Images</title>
       <link>https://hrlblab.github.io/project/2022_kaifeng_isbi/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://hrlblab.github.io/project/2022_kaifeng_isbi/</guid>
-      <description>Kaifeng Pang, Zuhayr Asad, Shilin Zhao, &lt;strong&gt;Yuankai Huo&lt;/strong&gt; &lt;br&gt; &lt;em&gt;&lt;strong&gt;ISBI&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;(2022)&lt;/strong&gt;</description>
+      <description></description>
     </item>
     
     <item>
       <title>Multi-modal Learning with Missing Data for Cancer Diagnosis using Histopathological and Genomic Data</title>
       <link>https://hrlblab.github.io/project/2022_can_spie/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://hrlblab.github.io/project/2022_can_spie/</guid>
-      <description>Can Cui, Zuhayr Asad, William F. Dean, Isabelle T. Smith, Christopher Madden, Shunxing Bao, Bennett A. Landman, Joseph T. Roland, Lori A. Coburn, Keith T. Wilson, Jeffrey P. Zwerner, Shilin Zhao, Lee E. Wheless, &lt;strong&gt;Yuankai Huo&lt;/strong&gt; &lt;br&gt; &lt;em&gt;&lt;strong&gt;SPIE Medical Imaging&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;(2022)&lt;/strong&gt;</description>
+      <description></description>
     </item>
     
     <item>
       <title>MxIF Q-score: Biology-Informed Quality Assurance for Multiplexed Immunofluorescence Imaging</title>
       <link>https://hrlblab.github.io/project/2022_shunxing_movi/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://hrlblab.github.io/project/2022_shunxing_movi/</guid>
-      <description>Shunxing Bao, Jia Li, Can Cui, Yucheng Tang, Ruining Deng, Lucas W. Remedios, Ho Hin Lee, Sophie Chiron, Nathan Heath Patterson, Ken S. Lau, Lori A. Coburn, Keith T. Wilson, Joseph T. Roland, Bennett A. Landman, Qi Liu, &lt;strong&gt;Yuankai Huo&lt;/strong&gt; &lt;br&gt; &lt;em&gt;&lt;strong&gt;MOVI&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;(2022)&lt;/strong&gt;</description>
+      <description></description>
     </item>
     
     <item>
       <title>Omni-Seg: A Single Dynamic Network for Multi-label Renal Pathology Image Segmentation using Partially Labeled Data</title>
       <link>https://hrlblab.github.io/project/2022_ruining_midl/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://hrlblab.github.io/project/2022_ruining_midl/</guid>
-      <description>Ruining Deng, Quan Liu, Can Cui, Zuhayr Asad, Haichun Yang, &lt;strong&gt;Yuankai Huo&lt;/strong&gt; &lt;br&gt; &lt;em&gt;&lt;strong&gt;MIDL&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;(2022)&lt;/strong&gt;</description>
+      <description></description>
     </item>
     
     <item>
       <title>Self-supervised Learning with Large-scale Web Image Mining for Characterizing Glomerular Lesion</title>
       <link>https://hrlblab.github.io/project/2022_tianyuan_spie/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://hrlblab.github.io/project/2022_tianyuan_spie/</guid>
-      <description>Tianyuan Yao, Yuzhe Lu, Ruining Deng, Zheyu Zhu, Zuhayr Asad, Haichun Yang, Lee E. Wheless, Agnes Fogo, &lt;strong&gt;Yuankai Huo&lt;/strong&gt; &lt;br&gt; &lt;em&gt;&lt;strong&gt;SPIE Medical Imaging&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;(2022)&lt;/strong&gt;</description>
+      <description></description>
     </item>
     
     <item>
       <title>Survival Prediction of Brain Cancer with Incomplete Radiology, Pathology, Genomic, and Demographic Data</title>
       <link>https://hrlblab.github.io/project/2022_can_miccai/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://hrlblab.github.io/project/2022_can_miccai/</guid>
-      <description>Can Cui, Han Liu, Quan Liu, Ruining Deng, Zuhayr Asad, Yaohong Wang, Shilin Zhao, Haichun Yang, Bennett A. Landman, &lt;strong&gt;Yuankai Huo&lt;/strong&gt; &lt;br&gt; &lt;em&gt;&lt;strong&gt;MICCAI&lt;/strong&gt;&lt;/em&gt; &lt;strong&gt;(2022)&lt;/strong&gt;</description>
+      <description></description>
     </item>
     
   </channel>
