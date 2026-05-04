@@ -1,63 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching History | HRLB Lab</title>
+    <title>Teaching History on HRLB Lab</title>
     <link>https://hrlblab.github.io/event/</link>
-      <atom:link href="https://hrlblab.github.io/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Teaching History</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Tue, 18 Jan 2022 13:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
-      <title>Teaching History</title>
-      <link>https://hrlblab.github.io/event/</link>
-    </image>
-    
+    <description>Recent content in Teaching History on HRLB Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>hrlblab@gmail.com</copyright>
+    <lastBuildDate>Tue, 18 Jan 2022 13:00:00 +0000</lastBuildDate><atom:link href="https://hrlblab.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CS4267/5267 Deep Learning</title>
       <link>https://hrlblab.github.io/event/example/</link>
       <pubDate>Tue, 18 Jan 2022 13:00:00 +0000</pubDate>
+      
       <guid>https://hrlblab.github.io/event/example/</guid>
-      <description></description>
+      <description>Deep Learning</description>
     </item>
     
     <item>
       <title>DS5660 Model and Machine Learning II</title>
       <link>https://hrlblab.github.io/event/ds5660_f2021/</link>
       <pubDate>Thu, 26 Aug 2021 13:00:00 +0000</pubDate>
+      
       <guid>https://hrlblab.github.io/event/ds5660_f2021/</guid>
-      <description></description>
+      <description>Model and Machine Learning II</description>
     </item>
     
     <item>
       <title>CS3891/4891 Deep Learning</title>
       <link>https://hrlblab.github.io/event/cs3891_s2021/</link>
       <pubDate>Tue, 26 Jan 2021 13:00:00 +0000</pubDate>
+      
       <guid>https://hrlblab.github.io/event/cs3891_s2021/</guid>
-      <description></description>
+      <description>Special Issue - Deep Learning</description>
     </item>
     
     <item>
       <title>DS5660 Model and Machine Learning II</title>
       <link>https://hrlblab.github.io/event/ds5660_f2020/</link>
       <pubDate>Wed, 26 Aug 2020 13:00:00 +0000</pubDate>
+      
       <guid>https://hrlblab.github.io/event/ds5660_f2020/</guid>
-      <description></description>
+      <description>Model and Machine Learning II</description>
     </item>
     
     <item>
       <title>CS8395 Deep Learning in Medical Image Computing</title>
       <link>https://hrlblab.github.io/event/cs8395_s2020/</link>
       <pubDate>Sun, 26 Jan 2020 13:00:00 +0000</pubDate>
+      
       <guid>https://hrlblab.github.io/event/cs8395_s2020/</guid>
-      <description></description>
+      <description>Deep Learning in Medical Image Computing</description>
     </item>
     
     <item>
       <title>CS8395 Deep Learning in Medical Image Computing</title>
       <link>https://hrlblab.github.io/event/cs8395_f2018/</link>
       <pubDate>Sun, 26 Aug 2018 13:00:00 +0000</pubDate>
+      
       <guid>https://hrlblab.github.io/event/cs8395_f2018/</guid>
-      <description></description>
+      <description>Deep Learning in Medical Image Computing</description>
     </item>
     
   </channel>

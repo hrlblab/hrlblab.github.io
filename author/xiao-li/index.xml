@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xiao Li | HRLB Lab</title>
+    <title>Xiao Li on HRLB Lab</title>
     <link>https://hrlblab.github.io/author/xiao-li/</link>
-      <atom:link href="https://hrlblab.github.io/author/xiao-li/index.xml" rel="self" type="application/rss+xml" />
-    <description>Xiao Li</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright>
-    <image>
-      <url>https://hrlblab.github.io/author/xiao-li/avatar_hu6a55c623ec28e65693be3c3308f38415_31812_270x270_fill_q75_lanczos_center.jpeg</url>
-      <title>Xiao Li</title>
-      <link>https://hrlblab.github.io/author/xiao-li/</link>
-    </image>
-    
+    <description>Recent content in Xiao Li on HRLB Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>hrlblab@gmail.com</copyright><atom:link href="https://hrlblab.github.io/author/xiao-li/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

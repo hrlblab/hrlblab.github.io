@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yuankai Huo | HRLB Lab</title>
+    <title>Yuankai Huo on HRLB Lab</title>
     <link>https://hrlblab.github.io/author/yuankai-huo/</link>
-      <atom:link href="https://hrlblab.github.io/author/yuankai-huo/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yuankai Huo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright>
-    <image>
-      <url>https://hrlblab.github.io/author/yuankai-huo/avatar_hu87434823c06b2f2186cef326559c7c7d_75611_270x270_fill_q75_lanczos_center.jpg</url>
-      <title>Yuankai Huo</title>
-      <link>https://hrlblab.github.io/author/yuankai-huo/</link>
-    </image>
-    
+    <description>Recent content in Yuankai Huo on HRLB Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>hrlblab@gmail.com</copyright><atom:link href="https://hrlblab.github.io/author/yuankai-huo/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
