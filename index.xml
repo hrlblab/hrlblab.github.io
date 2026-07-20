@@ -7,7 +7,7 @@
     <description>HRLB Lab</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hrlblab.github.io/media/icon_hu0ec0111cfd40fd5de1f066575f578bf6_49768_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hrlblab.github.io/media/icon_hu_ae848698c3b36766.png</url>
       <title>HRLB Lab</title>
       <link>https://hrlblab.github.io/</link>
     </image>
@@ -419,6 +419,22 @@
     </item>
     
     <item>
+      <title>Co-Heterogeneous and Adaptive Segmentation from Multi-Source and Multi-Phase CT Imaging Data: A Study on Pathological Liver and Lesion Segmentation</title>
+      <link>https://hrlblab.github.io/project/2020_ashwin_eccv/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2020_ashwin_eccv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JSSR: A Joint Synthesis, Segmentation, and Registration System for 3D Multi-Modal Image Alignment of Large-scale Pathological CT Scans</title>
+      <link>https://hrlblab.github.io/project/2020_fengze_eccv/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://hrlblab.github.io/project/2020_fengze_eccv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CS8395 Deep Learning in Medical Image Computing</title>
       <link>https://hrlblab.github.io/event/cs8395_s2020/</link>
       <pubDate>Sun, 26 Jan 2020 13:00:00 +0000</pubDate>
@@ -471,22 +487,6 @@
       <link>https://hrlblab.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hrlblab.github.io/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Co-Heterogeneous and Adaptive Segmentation from Multi-Source and Multi-Phase CT Imaging Data: A Study on Pathological Liver and Lesion Segmentation</title>
-      <link>https://hrlblab.github.io/project/2020_ashwin_eccv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hrlblab.github.io/project/2020_ashwin_eccv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JSSR: A Joint Synthesis, Segmentation, and Registration System for 3D Multi-Modal Image Alignment of Large-scale Pathological CT Scans</title>
-      <link>https://hrlblab.github.io/project/2020_fengze_eccv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hrlblab.github.io/project/2020_fengze_eccv/</guid>
       <description></description>
     </item>
     
