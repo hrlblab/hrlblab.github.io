@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jingyi Li | HRLB Lab</title>
+    <link>https://hrlblab.github.io/author/jingyi-li/</link>
+      <atom:link href="https://hrlblab.github.io/author/jingyi-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jingyi Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>hrlblab@gmail.com</copyright>
+    <image>
+      <url>https://hrlblab.github.io/author/jingyi-li/avatar_hu_f1e90531d2bdb26d.png</url>
+      <title>Jingyi Li</title>
+      <link>https://hrlblab.github.io/author/jingyi-li/</link>
+    </image>
+    
+  </channel>
+</rss>
